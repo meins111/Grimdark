@@ -1,3 +1,38 @@
 %!TEX root = ./Grimdark.tex
 \chapter{Base System}
-Example text 42
+\section{Base system} % (fold)
+\label{sec:base_system}
+Grimdark uses a universal roll system. Every check in the game uses the same base system. The following chapter will describe it in detail.
+\subsection{The Base Roll}
+Whenever a character uses a skill (in a non-trivial way), the player will roll a skill check.
+The check uses two d100 dice rolls, one for each attribute linked to the skill in question.
+If the roll result is equal to or lower than the target number (attribute value plus potential modifiers), it is considered a pass.
+
+\subsection{Trinary Outcome}
+A Base Roll can have three possible outcomes: \\
+\begin{itemize}
+	\item \textbf{0 Pass - Failure:} Both rolls are above their target numbers and the check fails.
+	\item \textbf{1 Pass - Partial Success (PS):} One of the rolls is above the target number, the other a pass. The check achieved a Partial Success, that is the goal is reached but at a cost. The cost is decided by the GM according to the situation but the group is encouraged to provide input if there is no obvious cost. See the example below for two possible costs.
+	\item \textbf{2 Pass - Full Success (FS):} Both rolls are passes. The check achieved a Full Success. The goal is achieved without problem.
+\end{itemize}
+
+\begin{figure}[ht]
+	\begin{DndSidebar}{Example Skill Check}
+	\textit{Sister Aryanna of the Ordo Dialogis attempts to calm down Inquisitors Zu-Lin Yu and Otto Brecht who have come close to open hostility over a debate of how to handle the survivors of an Imperial Guard regiment fighting off a daemonic incursion...}
+	\begin{itemize}
+		\item \textbf{Skill:} Pretty Words
+		\item \textbf{Skill Modifier:} +5
+		\item \textbf{Attributes:} Fellowship 47, Intelligence 34
+		\item \textbf{Target Numbers:} 52 (47+5), 39 (34+5)
+		\item \textbf{Rolls:} 64 (no pass), 23 (pass)
+		\item \textbf{Result:} Partial Success
+	\end{itemize}
+	The player rolls two d100. The first comes up with a 64 and the second with a 23.
+	This means that the check resulted in a Partial Success, since only one roll was below the target number (the second one).
+	The goal will be achieved (stopping the Inquisitors from starting a intercine war) - but at a cost. For most social skills, a Partial Success will leave the a bad aftertaste with the target of the skill, making it potentially more difficult to interact with in the future.\\
+	\textit{Sister Aryanna speaks up and argues that executing the soldiers, who are by now very well trained to detect and fight the neverborn, would be massive waste of Imperial assets and simply cannot be tolerated at the current stage of the war. While her temper rose quickly and flamed up brightly over yet another debate between Yu and Brecht, her arguments are sound and not easily squashed even by a hardline puritan like Brecht.\\
+	Inquisitor Brecht will surely remember her interdiction - but the argument has been settled without bloodshed.}
+	\end{DndSidebar}
+\end{figure}
+
+% section base_system (end)
