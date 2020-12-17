@@ -35,4 +35,44 @@ A Base Roll can have three possible outcomes: \\
 	\end{DndSidebar}
 \end{figure}
 
+\subsection{The Opposed Roll}
+\label{opposed_roll}
+Many sitations in Grimdark are resolved by making an opposed roll between two parties.
+This is especially true for inherently competitive situations like combat, social manipulation or contests.\\
+An opposed roll works as follows:
+\begin{enumerate}
+	\item The active party chooses the skill first.
+	\item The passive party chooses a fitting skill in response.
+	\item Both sides roll their respective checks as normal and get their trinary outcome.
+	\item The outcomes of both parties is compared to get the result of the opposed test
+\end{enumerate}
+
+The results of an opposed roll is determined by the following table:
+\begin{tabular}{l | l | l}
+	\textbf{Active} &  \textbf{Passive} & \textbf{Outcome} \\
+	FS & Fail & CS\\
+	FS & PS & FS \\
+	FS & FS & Draw \\
+	PS & Fail & PS \\
+	PS & PS & Draw \\
+	PS & FS & Fail \\
+	Fail & Fail & Draw\\
+	Fail & PS & Fail \\
+	Fail & FS & CF\\
+\end{tabular}
+
+While this might appear complicated at first, there are three easy to remember rules that determine the outcome:
+\begin{enumerate}
+	\item When the active party gets more passes than the passive parrty, the outcome of the active party is the end result.
+	\item When both parties get the same outcome, there is a draw. The outcomes of a draw is determined by the used skill of the active party (see section \ref{skill_types}).
+	\item If one party gets a FS and the other a Fail, a critical effect happens. 
+	\begin{itemize}
+		\item Critical Success (CS): Happens when the active party gets a FS and the passive party a Fail. Counts as a FS but with enhanced effects determined by the GM.
+		\item Critical Failure (CF): Happens when the active party gets a Fail and the passive party a FS. Counts as a Fail but with additional complication(s) determined by the GM.
+	\end{itemize}
+
+\end{enumerate}
+
+
+
 % section base_system (end)
