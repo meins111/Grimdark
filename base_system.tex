@@ -55,7 +55,7 @@ If the roll result is equal to or lower than the target number (attribute value 
 \subsection{Trinary Outcome}
 A Base Roll can have three possible outcomes: \\
 \begin{itemize}
-	\item \textbf{0 Pass - Failure:} Both rolls are above their target numbers and the check fails.
+	\item \textbf{0 Pass - Failure:} Both rolls are above their target numbers and the check fails and causes a complication.
 	\item \textbf{1 Pass - Partial Success (PS):} One of the rolls is above the target number, the other a pass. The check achieved a Partial Success, that is the goal is reached but at a cost. The cost is decided by the GM according to the situation but the group is encouraged to provide input if there is no obvious cost. See the example below for two possible costs.
 	\item \textbf{2 Pass - Full Success (FS):} Both rolls are passes. The check achieved a Full Success. The goal is achieved without problem.
 \end{itemize}
@@ -73,27 +73,41 @@ A Base Roll can have three possible outcomes: \\
 	\end{itemize}
 	The player rolls two d100. The first comes up with a 64 and the second with a 23.
 	This means that the check resulted in a Partial Success, since only one roll was below the target number (the second one).
-	The goal will be achieved (stopping the Inquisitors from starting a intercine war) - but at a cost. For most social skills, a Partial Success will leave the a bad aftertaste with the target of the skill, making it potentially more difficult to interact with in the future.\\
+	The goal will be achieved (stopping the Inquisitors from starting a internecine war) - but at a cost. For most social skills, a Partial Success will leave the a bad aftertaste with the target of the skill, making it potentially more difficult to interact with in the future. Another common complication of social skills would be the target challenging the character to a debate over the matter, resulting in a second opposed test. \\
 	\textit{Sister Aryanna speaks up and argues that executing the soldiers, who are by now very well trained to detect and fight the neverborn, would be massive waste of Imperial assets and simply cannot be tolerated at the current stage of the war. While her temper rose quickly and flamed up brightly over yet another debate between Yu and Brecht, her arguments are sound and not easily squashed even by a hardline puritan like Brecht.\\
 	Inquisitor Brecht will surely remember her interdiction - but the argument has been settled without bloodshed.}
 	\end{DndSidebar}
 \end{figure}
 
+\subsection{Fate, Luck \& Doom}
+Sometimes characters just get lucky, a blindly fired shot into a smoke screen hitting an enemy in the head or unknowingly addressing the weak spot during a discussion. And at other times, the entire universe just seem to have met in a murky back room of a shady bar to plot against them.
+
+Grimdark uses the term Fate for this. Fate comes into play when a character rolls a skill (or profession) check and one (or both) dice come up with double-digit results (11, 22, ..., 99).
+Whether Fate is good or bad, is determined by the overall outcome of the roll - think of it as an catalyst. 
+Good things get better. 
+Bad things get worse.
+Getting Fate on a Full Success will result in something truly spectacular, while getting Fate on a Fail mean you are in big trouble this time for sure...
+
+Some skills or talents will provide special rules or guidelines for how to treat Fate when it comes up as part of its use.
+Generally, GM and players should work together to make fateful rolls remarkable and memorial - especially in the case of double Fate (both rolls are double-digits) as those are very, very rare indeed.
+
+
 \subsection{The Opposed Roll}
 \label{opposed_roll}
-Many sitations in Grimdark are resolved by making an opposed roll between two parties.
+Many situations in Grimdark are resolved by making an opposed roll between two parties.
 This is especially true for inherently competitive situations like combat, social manipulation or contests.\\
 An opposed roll works as follows:
 \begin{enumerate}
 	\item The active party chooses the skill first.
 	\item The passive party chooses a fitting skill in response.
 	\item Both sides roll their respective checks as normal and get their trinary outcome.
-	\item The outcomes of both parties is compared to get the result of the opposed test
+	\item The outcomes of both parties is compared to get the result of the opposed test.
+	\item Apply Fate of the winning party as normal.
 \end{enumerate}
 
 The results of an opposed roll is determined by the following table:
 \begin{tabular}{l | l | l}
-	\textbf{Active} &  \textbf{Passive} & \textbf{Outcome} \\
+	\textbf{Active} &  \textbf{Passive} & \textbf{Outcome} \\ 
 	FS & Fail & CS\\
 	FS & PS & FS \\
 	FS & FS & Draw \\
@@ -107,12 +121,12 @@ The results of an opposed roll is determined by the following table:
 
 While this might appear complicated at first, there are three easy to remember rules that determine the outcome:
 \begin{enumerate}
-	\item When the active party gets more passes than the passive parrty, the outcome of the active party is the end result.
-	\item When both parties get the same outcome, there is a draw. The outcomes of a draw is determined by the used skill of the active party (see section \ref{skill_types}).
+	\item When the active party gets more passes than the passive party, the outcome of the active party is the end result.
+	\item When both parties get the same outcome, there is a draw. If one party has Fate on her roll, the result of that party determines the end result. If Fate does not play a role (or both parties get an equal amount of Fate dice), the outcomes of a draw is determined by the used skill of the active party (see section \ref{skill_types}).
 	\item If one party gets a FS and the other a Fail, a critical effect happens. 
 	\begin{itemize}
 		\item Critical Success (CS): Happens when the active party gets a FS and the passive party a Fail. Counts as a FS but with enhanced effects determined by the GM.
-		\item Critical Failure (CF): Happens when the active party gets a Fail and the passive party a FS. Counts as a Fail but with additional complication(s) determined by the GM.
+		\item Critical Failure (CF): Happens when the active party gets a Fail and the passive party a FS. Counts as a Fail but with additional or worsened complication(s) determined by the GM.
 	\end{itemize}
 
 \end{enumerate}
