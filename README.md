@@ -4,10 +4,10 @@ Role-Play Game system for games set in the grim-dark fture of Warhammer 40k or o
 # Road Map
 This is the extend of things I intend to have in the book when it is done:
 
-## The Core Mechanic
+## The Core Mechanic ✓
 - Attributes ✓
-    + Attribute Modifiers
-- Aptitudes ✓
+    + Attribute Modifiers ✓
+- Aptitudes. ✓
 - Skill Check / Trinary Result ✓
 - Fate ✓
 - Sub-System: Plot Armor
@@ -59,6 +59,7 @@ This is the extend of things I intend to have in the book when it is done:
 - Raising Specialties
 
 ## Combat
+- Initiative & Action Sequence
 - Attack & Defense
 - Resilience & Stress & Fatigue
 - Armor & Wounds
