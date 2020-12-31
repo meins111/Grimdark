@@ -60,17 +60,30 @@ This is the extend of things I intend to have in the book when it is done:
 
 ## Combat
 - Attack & Defense
-- Resilience & Stress
+- Resilience & Stress & Fatigue
 - Armor & Wounds
 - Cover
 - Circumstances & Modifiers
+
+## Sub-System: Fear, Damnation & Salvation
+- Fear
+- Insanity
+- Corruption
+- Acts of Passion & Humanity
 
 ## Equipment
 - Methods of Requisition
 - Weapons
 - Armor
 - Gear
-- Consumables
+
+## Sub-System: Drugs, Poisons & Medicine
+- Side Effects
+- Overdose
+- Addiction
+- Common Drugs
+- Commom Poisons
+- Common Medical Consumables
 
 ## Sub-System: Cybernetics
 - The Flesh is Weak
@@ -88,5 +101,6 @@ This is the extend of things I intend to have in the book when it is done:
 
 ## Sub-System: Unnatural Physiques
 - Unnatural Attributes
+- Preternatural Senses
 - Mutations
 - Xeno Physiques
