@@ -5,37 +5,37 @@ Role-Play Game system for games set in the grim-dark fture of Warhammer 40k or o
 This is the extend of things I intend to have in the book when it is done:
 
 ## The Core Mechanic
-- Attributes
+- Attributes ✓
     + Attribute Modifiers
-- Aptitudes
-- Skill Check / Trinary Result
-- Fate
+- Aptitudes ✓
+- Skill Check / Trinary Result ✓
+- Fate ✓
 - Sub-System: Plot Armor
 
 ## Profession and Specialties
-- Definition
-- Generalist & Specialist Path
+- Definition ✓
+- Generalist & Specialist Path ✓
 - Professions
-    - The Check
-    - Profession Rating
+    - The Check ✓
+    - Profession Rating ✓
 - Specialties
-    - The Check
-    - Levels and Modifiers
+    - The Check ✓
+    - Levels and Modifiers ✓
 - The Professions
-    - Acrobat
-    - Athlete
-    - Believer
-    - Betrayer
-    - Commander
-    - Enforcer
-    - Ghost
-    - Gunman
-    - Medic
-    - Navigator
-    - Observer
-    - Operator
-    - Rationalist
-    - Spokesman
+    - Acrobat ✓
+    - Athlete ✓
+    - Believer ✓
+    - Betrayer ✓
+    - Commander ✓
+    - Enforcer ✓
+    - Ghost ✓
+    - Gunman ✓
+    - Medic ✓
+    - Navigator ✓
+    - Observer ✓
+    - Operator ✓
+    - Rationalist ✓
+    - Spokesman 
     - Survivalist
     - Technologist
     - Tinkerer
