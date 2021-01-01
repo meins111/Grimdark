@@ -15,13 +15,13 @@ This is the extend of things I intend to have in the book when it is done:
 ## Profession and Specialties
 - Definition ✓
 - Generalist & Specialist Path ✓
-- Professions
+- Professions ✓
     - The Check ✓
     - Profession Rating ✓
 - Specialties
     - The Check ✓
     - Levels and Modifiers ✓
-- The Professions
+- The Professions ✓
     - Acrobat ✓
     - Athlete ✓
     - Believer ✓
@@ -35,11 +35,12 @@ This is the extend of things I intend to have in the book when it is done:
     - Observer ✓
     - Operator ✓
     - Rationalist ✓
-    - Spokesman 
-    - Survivalist
-    - Technologist
-    - Tinkerer
-    - Trader
+    - Spokesman ✓
+    - Survivalist ✓
+    - Technologist ✓
+    - Tinkerer ✓
+    - Trader ✓
+    - Warrior ✓
 - The Specialities:
     - (lots)
 
