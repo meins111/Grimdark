@@ -18,6 +18,7 @@ This is the extend of things I intend to have in the book when it is done:
 - Professions ✓
     - The Check ✓
     - Profession Rating ✓
+    - Synergies ✓
 - Specialties
     - The Check ✓
     - Levels and Modifiers ✓
@@ -30,6 +31,7 @@ This is the extend of things I intend to have in the book when it is done:
     - Enforcer ✓
     - Ghost ✓
     - Gunman ✓
+    - Loremaster ✓ 
     - Medic ✓
     - Navigator ✓
     - Observer ✓
@@ -55,7 +57,6 @@ This is the extend of things I intend to have in the book when it is done:
 ## Character Advancement
 - XP
 - Raising Attributes
-- Raising Professions
 - Gaining new Professions
 - Raising Specialties
 
