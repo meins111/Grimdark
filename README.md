@@ -22,6 +22,7 @@ This is the extend of things I intend to have in the book when it is done:
 - Specialties
     - The Check ✓
     - Levels and Modifiers ✓
+    - Common Usage Tags ✓
 - The Professions ✓
     - Acrobat ✓
     - Athlete ✓
