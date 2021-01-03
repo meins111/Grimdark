@@ -108,3 +108,7 @@ This is the extend of things I intend to have in the book when it is done:
 - Preternatural Senses
 - Mutations
 - Xeno Physiques
+
+
+# Ressources
+- Aptitude Spreadsheet: https://docs.google.com/spreadsheets/d/1RwVed_13rU-R6gOd7ZXkRw_28d88Vs-ITtQnxIICWe8/edit?usp=sharing
