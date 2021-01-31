@@ -64,7 +64,7 @@ This is the extend of things I intend to have in the book when it is done:
 ## Combat
 - Initiative & Action Sequence
 - Attack & Defense
-- Resilience & Stress & Fatigue
+- Resilience & Stress & Snaps ✓
 - Armor & Wounds
 - Cover
 - Circumstances & Modifiers
