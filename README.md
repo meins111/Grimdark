@@ -18,6 +18,7 @@ This is the extend of things I intend to have in the book when it is done:
 - Professions ✓
     - The Check ✓
     - Profession Rating ✓
+    - Profession Groups ✓
     - Synergies ✓
 - Specialties
     - The Check ✓
@@ -47,13 +48,14 @@ This is the extend of things I intend to have in the book when it is done:
 - The Specialities:
     - (lots)
 
-## Sub-System: Lifepath Character Ceation
-- The Lifepath creation
-- Step 1: Place of Birth
-- Step 2: Upbringing
-- Step 3: Education
-- Step 4: Job & Specialties
-- Step 5: Personality
+## Sub-System: Lifepath Character Ceation ✓
+- The Lifepath creation ✓
+- Step 1: Birthright ✓
+- Step 2: Homeworld ✓
+- Step 3: Childhood ✓
+- Step 4: Education ✓
+- Step 5: Combat Experience ✓
+- Step 6: Early Career ✓
 
 ## Character Advancement
 - XP
