@@ -1,84 +1,82 @@
 %!TEX root = ./Grimdark.tex
 \chapter{Base System}
 \section{Attributes}\label{Attributes}
-Characters in Grimdark have 7 Attributes which define their relevant physical and psychical abilities.
-Each Attribute is represented as a number from 0 to 100 - or potentially even higher.
-The higher the Attribute the better.
-A typical human will have scores in the thirties.
-Without preternatural aid (like drugs, psychic powers, mutations or cybernetics) humans cannot have attributes greater than 60. 
-All rolls in Grimdark make use of two associated Attributes - thus the attributes of your character are very important!
-\begin{itemize}
-	\item {\large\textbf{\underline{P}ower:}} Measures how powerful your character is - in body and mind.
+	Characters in Grimdark have 7 Attributes which define their relevant physical and psychical abilities.
+	Each Attribute is represented as a number from 0 to 100 - or potentially even higher.
+	The higher the Attribute the better.
+	A typical human will have scores in the thirties.
+	Without preternatural aid (like drugs, psychic powers, mutations or cybernetics) humans cannot have attributes greater than 60. 
+	All rolls in Grimdark make use of two associated Attributes - thus the attributes of your character are very important!
 	\begin{itemize}
-		\item \textbf{Sample Uses:} lift heavy things, control automatic weapons, hit hard, intimidate others, break others will.
-		\item \textbf{Archetypes:} Orks, Ogryn, Ganger, Interrogator, Commissar
+		\item {\large\textbf{\underline{P}ower:}} Measures how powerful your character is - in body and mind.
+		\begin{itemize}
+			\item \textbf{Sample Uses:} lift heavy things, control automatic weapons, hit hard, intimidate others, break others will.
+			\item \textbf{Archetypes:} Orks, Ogryn, Ganger, Interrogator, Commissar
+		\end{itemize}
+
+		\item {\large\textbf{\underline{F}inesse:}} Measures how well your character does delicate work.
+		\begin{itemize}
+			\item \textbf{Sample Uses:} make a hard target, one shot one kill, move silent, craft or manipulate delicate items, manipulate others
+			\item \textbf{Archetypes:} Eldar, Assassin, Sniper, Mechanicus Magos, Diplomat
+		\end{itemize}
+
+		\item {\large\textbf{\underline{T}oughness:}} Measures how much of a beating you can take.
+		\begin{itemize}
+			\item \textbf{Sample Uses:} endure pain, keep doing strenuous work, resist poison and illness, recover fast
+			\item \textbf{Archetypes:} Orks, Ogryn, Ganger, Soldiers
+		\end{itemize}
+
+		\item {\large\textbf{\underline{I}nstinct:}} Measures how keen your senses are and how well you react to any given situation
+		\begin{itemize}
+			\item \textbf{Sample Uses:} read the mood of others, detect danger (traps, ambushes, followers, attacks), react fast
+			\item \textbf{Archetypes:} Eldar, Orks, Ogryn, Space Marines, Inquisitor, Scout
+		\end{itemize}
+
+		\item {\large\textbf{\underline{S}marts:}} Measures how much the character knows.
+		\begin{itemize}
+			\item \textbf{Sample Uses:} know potential useful tidbits, know what (and what not) to say, do research, treat wounds, handle tech
+			\item \textbf{Archetypes:} Eldar, Adept, Mechanicus Magos
+		\end{itemize}
+
+		\item {\large\textbf{\underline{C}harisma:}} Measures how well the character can express himself and work with people.
+		\begin{itemize}
+			\item \textbf{Sample Uses:} preach, command, talk others into something, discussions, trading, information gathering, flirting
+			\item \textbf{Archetypes:} Eldar, Officer, Quartermaster, Diplomat, Priest, Rogue Trader
+		\end{itemize}
+
+		\item {\large\textbf{\underline{W}ill:}} Measures the strength of the characters will.
+		\begin{itemize}
+			\item \textbf{Sample Uses:} keep cool under pressure, resist mental influence, keep going when exhausted, psyker powers
+			\item \textbf{Archetypes:} Eldar, Inquisitor, Space Marine, Commissar, Psyker, Witch
+		\end{itemize}
 	\end{itemize}
 
-	\item {\large\textbf{\underline{F}inesse:}} Measures how well your character does delicate work.
-	\begin{itemize}
-		\item \textbf{Sample Uses:} make a hard target, one shot one kill, move silent, craft or manipulate delicate items, manipulate others
-		\item \textbf{Archetypes:} Eldar, Assassin, Sniper, Mechanicus Magos, Diplomat
-	\end{itemize}
 
-	\item {\large\textbf{\underline{T}oughness:}} Measures how much of a beating you can take.
-	\begin{itemize}
-		\item \textbf{Sample Uses:} endure pain, keep doing strenuous work, resist poison and illness, recover fast
-		\item \textbf{Archetypes:} Orks, Ogryn, Ganger, Soldiers
-	\end{itemize}
+	\subsection{Attribute Modifier}
+		Some situations allow a character to add a modifier based on his Attribute to an effect, e.g. when hitting an enemy with a melee weapon you may add your Power Modificator (P-Mod) on top of the damage dealt!
+		Usually, the Attribute Modifier (or simply Mod) is the first digit of the respective attribute - or expressed otherwise, the Mod is the Attribute divided by 10. 
 
-	\item {\large\textbf{\underline{I}nstinct:}} Measures how keen your senses are and how well you react to any given situation
-	\begin{itemize}
-		\item \textbf{Sample Uses:} read the mood of others, detect danger (traps, ambushes, followers, attacks), react fast
-		\item \textbf{Archetypes:} Eldar, Orks, Ogryn, Space Marines, Inquisitor, Scout
-	\end{itemize}
+		Effect that make use of such a Mod, refer to it as X-Mod, where the X is the first letter of the used Attribute.
+		So P-Mod refers to the Power Modifier and W-Mod to your Will Modifier!
 
-	\item {\large\textbf{\underline{S}marts:}} Measures how much the character knows.
-	\begin{itemize}
-		\item \textbf{Sample Uses:} know potential useful tidbits, know what (and what not) to say, do research, treat wounds, handle tech
-		\item \textbf{Archetypes:} Eldar, Adept, Mechanicus Magos
-	\end{itemize}
-
-	\item {\large\textbf{\underline{C}harisma:}} Measures how well the character can express himself and work with people.
-	\begin{itemize}
-		\item \textbf{Sample Uses:} preach, command, talk others into something, discussions, trading, information gathering, flirting
-		\item \textbf{Archetypes:} Eldar, Officer, Quartermaster, Diplomat, Priest, Rogue Trader
-	\end{itemize}
-
-	\item {\large\textbf{\underline{W}ill:}} Measures the strength of the characters will.
-	\begin{itemize}
-		\item \textbf{Sample Uses:} keep cool under pressure, resist mental influence, keep going when exhausted, psyker powers
-		\item \textbf{Archetypes:} Eldar, Inquisitor, Space Marine, Commissar, Psyker, Witch
-	\end{itemize}
-\end{itemize}
-
-
-\subsection{Attribute Modifier}
-Some situations allow a character to add a modifier based on his Attribute to an effect, e.g. when hitting an enemy with a melee weapon you may add your Power Modificator (P-Mod) on top of the damage dealt!
-Usually, the Attribute Modifier (or simply Mod) is the first digit of the respective attribute - or expressed otherwise, the Mod is the Attribute divided by 10. 
-
-Effect that make use of such a Mod, refer to it as X-Mod, where the X is the first letter of the used Attribute.
-So P-Mod refers to the Power Modifier and W-Mod to your Will Modifier!
-
-\textit{Example: If your character's Strength score is 37, then his S-Mod will be 3.}
+		\textit{Example: If your character's Strength score is 37, then his S-Mod will be 3.}
 
 \section{Aptitudes}\label{Aptitudes}
-Where Attributes define the \textit{current} abilities of your character, Aptitudes represent your character's \textit{potential}.
-Aptitudes define how easy your character can learn new skills, professions and talents associated with the Aptitudes.
-While every character in Grimdark can learn any skill or talent, a character with the respective Aptitudes will have a much easier time doing so.
-In game terms, the number of matching Aptitudes determines the XP cost to learn something new.
+	Where Attributes define the \textit{current} abilities of your character, Aptitudes represent your character's \textit{potential}.
+	Aptitudes define how easy your character can learn new skills, professions and talents associated with the Aptitudes.
+	While every character in Grimdark can learn any skill or talent, a character with the respective Aptitudes will have a much easier time doing so.
+	In game terms, the number of matching Aptitudes determines the XP cost to learn something new.
 
-There are two types of Aptitudes: Attribute and Group Aptitudes.
-\begin{itemize}
-	\item Attribute Aptitudes share the name of a Attribute (e.g. Power or Smarts). For each Attribute there is a matching Aptitude. Having an Attribute Aptitude means that your character will find all skills relying on this Attribute easy to master. Some people simple find it easy to learn new things from books (which would be represented by the Smarts Aptitude) while others excell at quickly training a new combat technique (which would be represented by either a Power or Finesse Aptitude).
-	\item Group Attributes share the name of a Profession Group (see section \ref{profession_overview_grouped}), that is: Physical, Intellectual, Social and Instinctual. A character with a certain Group Attribute, will find all Professions (and thus skills) within this group easy to learn and master.
-\end{itemize}
+	There are two types of Aptitudes: Attribute and Group Aptitudes.
+	\begin{itemize}
+		\item Attribute Aptitudes share the name of a Attribute (e.g. Power or Smarts). For each Attribute there is a matching Aptitude. Having an Attribute Aptitude means that your character will find all skills relying on this Attribute easy to master. Some people simple find it easy to learn new things from books (which would be represented by the Smarts Aptitude) while others excell at quickly training a new combat technique (which would be represented by either a Power or Finesse Aptitude).
+		\item Group Attributes share the name of a Profession Group (see section \ref{profession_overview_grouped}), that is: Physical, Intellectual, Social and Instinctual. A character with a certain Group Attribute, will find all Professions (and thus skills) within this group easy to learn and master.
+	\end{itemize}
 
-When learning a new skill or talent, check the Attributes it realies upon and he Profession group it is part of, then compare these to your Aptitudes.
-If your character has two (or more) matching Aptitudes he will have a very easy time learning it.
-Do you only have one of them, you will do okay.
-But if you have neither, your character will find it pretty hard (but nor impossible!) to learn this new ability.
-
-
+	When learning a new skill or talent, check the Attributes it realies upon and he Profession group it is part of, then compare these to your Aptitudes.
+	If your character has two (or more) matching Aptitudes he will have a very easy time learning it.
+	Do you only have one of them, you will do okay.
+	But if you have neither, your character will find it pretty hard (but nor impossible!) to learn this new ability.
 
 
 \section{The Core System} % (fold)

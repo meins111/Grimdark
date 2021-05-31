@@ -5,99 +5,140 @@ While there are many situations that can be solved without fighting, practically
 This chapter will introduce the important rules that govern combat in Grimdark, especially the interactions between various combat oriented \nameref{sec:Specialties}, how damage and wounds are handled and common situational modifiers.
 
 \section{Life, Death \& Injury}
-Characters in Grimdark face many different ways in which they can come to harm.
-Enemies might shoot them, debris might crash on them or cruel foes might play mind tricks on them.
-There are three major concepts that make up Grimdarks system of handling harm:
-\begin{itemize}
-	\item \textbf{Resilience \& Stress:} Common physical injury and mental trauma are combined into a Stress value which rises and falls throughout a scene. A character's Resilience determine how much he is able to withstand.
-	\item \textbf{Stress Level:} When the Stress value of a character rises above his Resilience, his Stress level increases by one and his Stress value and he takes a Snap (see below). The higher a character's stress level, the more severe the Snaps he will suffer.
-	\item \textbf{Snap:} When Stress gets too much for a character's Resilience, he gains a Snap. This is a status effect or conditions applied by whatever caused the Stress to overflow. Usually, a Snap is only temporary.
-	\item \textbf{Wound:} Sometimes a character might be subject to a really grievous hit which is nearly guaranteed to leave a lasting mark. Getting hit by a plasma gun for example. Wounds are permanent although some may be treated by a skilled Medic (or other means).
-\end{itemize}
+	Characters in Grimdark face many different ways in which they can come to harm.
+	Enemies might shoot them, debris might crash on them or cruel foes might play mind tricks on them.
+	There are three major concepts that make up Grimdarks system of handling harm:
+	\begin{itemize}
+		\item \textbf{Resilience \& Stress:} Common physical injury and mental trauma are combined into a Stress value which rises and falls throughout a scene. A character's Resilience determine how much he is able to withstand.
+		\item \textbf{Stress Level:} When the Stress value of a character rises above his Resilience, his Stress level increases by one and his Stress value and he takes a Snap (see below). The higher a character's stress level, the more severe the Snaps he will suffer.
+		\item \textbf{Snap:} When Stress gets too much for a character's Resilience, he gains a Snap. This is a status effect or conditions applied by whatever caused the Stress to overflow. Usually, a Snap is only temporary but Snaps gained on higher Stress levels may be long-lasting or even permanent. Snaps can also be gained from weapons overcoming a character's armor.
+	\end{itemize}
 
 \subsection{Resilience}\label{Resilience}
-Every character has an innate tolerance for mental and physical trauma.
-Grimdark calls this tolerance \textbf{Resilience}.\\
-A character's Resilience is the sum of a his Toughness and Will modifier.
-\begin{DndComment}{Resilience}
-	\textbf{Resilience = W-Mod + T-Mod}\\
-	\textit{Example: Noc'Or has a Toughness score of 47 and a Will score of 33 - so his T-Mod is 4 and W-Mod is 3. The sum of those two is 7, which means Noc'Or has a Resilience of 7.}
-\end{DndComment}
+	Every character has an innate tolerance for mental and physical trauma.
+	Grimdark calls this tolerance \textbf{Resilience}.\\
+	A character's Resilience is the sum of a his Toughness and Will modifier.
+	\begin{DndComment}{Resilience}
+		\textbf{Resilience = W-Mod + T-Mod}\\
+		\textit{Example: Noc'Or has a Toughness score of 47 and a Will score of 33 - so his T-Mod is 4 and W-Mod is 3. The sum of those two is 7, which means Noc'Or has a Resilience of 7.}
+	\end{DndComment}
 
 \subsection{Stress}\label{Stress}
-When a character takes damage, regardless of its type, his Stress value increases.
-Whenever this value increases above his Resilience three things happen:
-\begin{enumerate}
-	\item He takes a Snap determined by the source of the damage.
-	\item His Stress Level increases by one.
-	\item His Stress Value decreases by the character's Resilience. Should the new value still be above the character's Resilience, go to the first step.
-\end{enumerate}
+	When a character takes damage, regardless of its type, his Stress value increases.
+	Whenever this value increases above his Resilience three things happen:
+	\begin{enumerate}
+		\item He takes a Snap determined by the source of the damage.
+		\item His Stress Level increases by one.
+		\item His Stress Value decreases by the character's Resilience. Should the new value still be above the character's Resilience, go to the first step.
+	\end{enumerate}
 
-\begin{DndSidebar}{Example: Stress}
-\textit{Sister Aryanna is fighting mutant rats invading her apothecarium through the cellar. She is squashing them one after the other the stock of her bolter, not wanting to waste precious bolt shells on such low creatures. Both her legs are already bloody from the scratching and gnawing rodents.}\\
-\noindent
-Aryanna has a Resilience of 6 and her current Stress is at 4 after taking several minute scratches and bites from the rats.\\
-\noindent
-\textit{Then, out of nowhere, a particular disgusting one jumps on her back and sink its teeth into her neck! She feels her strength leave her body along with the droplets of blood from the wound...}\\
-\noindent
-The surprise attack deals 4 damage, bringing Aryanna up to 8, which is more than her Resilience. 
-Thus the following happens:
-\begin{enumerate}
-	\item Aryanna take a Snap. The GM informs her player that Aryanna is now poisoned by the dirty fangs of the mutant rat. For now, the poison is only reducing her Power by 5 for the remainder of the scene.
-	\item Her Stress Level increases by one. It is now 1.
-	\item She reduces her stress value by her Resilience. This means her new Stress Value is: 8-6=2.
-\end{enumerate}
-\end{DndSidebar}
+	\begin{DndSidebar}{Example: Stress}
+	\textit{Sister Aryanna is fighting mutant rats invading her apothecarium through the cellar. She is squashing them one after the other the stock of her bolter, not wanting to waste precious bolt shells on such low creatures. Both her legs are already bloody from the scratching and gnawing rodents.}\\
+	\noindent
+	Aryanna has a Resilience of 6 and her current Stress is at 4 after taking several minute scratches and bites from the rats.\\
+	\noindent
+	\textit{Then, out of nowhere, a particular disgusting one jumps on her back and sink its teeth into her neck! She feels her strength leave her body along with the droplets of blood from the wound...}\\
+	\noindent
+	The surprise attack deals 4 damage, bringing Aryanna up to 8, which is more than her Resilience. 
+	Thus the following happens:
+	\begin{enumerate}
+		\item Aryanna take a Snap. The GM informs her player that Aryanna is now poisoned by the dirty fangs of the mutant rat. For now, the poison is only reducing her Power by 5 for the remainder of the scene.
+		\item Her Stress Level increases by one. It is now 1.
+		\item She reduces her stress value by her Resilience. This means her new Stress Value is: 8-6=2.
+	\end{enumerate}
+	\end{DndSidebar}
 
 \subsection{Stress Level}\label{Stress_Level}
-The current Stress Level of a character provides the player and GM a simple way of seeing how exhausted a character is.
-It also presents a "danger meter" to the player, since the Snaps a character suffers gets progressively worse the higher his stress level goes.
-The sample Snaps presented in various places throughout the book covers up to three Stress Level.
+	The current Stress Level of a character provides the player and GM a simple way of seeing how exhausted a character is.
+	It also presents a "danger meter" to the player, since the Snaps a character suffers gets progressively worse the higher his stress level goes.
+	The sample Snaps presented in various places throughout the book covers up to three Stress Level.
 
-Grimdark does not use a strict limit for the amount of Stress Levels a character may accumulate.
-GMs might allow players to "go beyond" those three levels, representing their characters pushing themselves beyond the safety margins erected by body and mind.
-It is recommended that whenever a character reaches a new stress level beyond the third, he GM should request a Endure (or other fitting) check, to represent the character struggling to keep up the fight.\\
-This decision is left to the individual GM and he may even decide to keep it situational - e.g. by allowing players a longer breath during climatic encounters than during common scenes.
+	Grimdark does not use a strict limit for the amount of Stress Levels a character may accumulate.
+	GMs might allow players to "go beyond" those three levels, representing their characters pushing themselves beyond the safety margins erected by body and mind.
+	It is recommended that whenever a character reaches a new stress level beyond the third, he GM should request a Endure(Athlete) (or other fitting) check, to represent the character struggling to keep up the fight.\\
+	This decision is left to the individual GM and he may even decide to keep it situational - e.g. by allowing players a longer breath during climatic encounters than during common scenes.
 
-\subsection{Snap} % (fold)
-\label{sub:snap}
-Whenever a character reaches a new stress level, that is his current stress is greater than his Resilience, he takes a Snap.
-Taking a snap represents some part of a characters mind or body giving in under the pressure put on it.
-The Snap is determined by the source of the stress which made the character reach a new Stress Level.
+\subsection{Snaps} % (fold)
+	\label{sub:snap}
+	Whenever a character reaches a new stress level, that is his current stress is greater than his Resilience, he takes a Snap.
+	Characters may also take (or inflict!) Snaps by a successful critical hit (see section \ref{sec:attack_defense}).
+	Taking a snap represents some part of a characters mind or body giving in under the pressure put on it.
+	The Snap is determined by the source of the stress which made the character reach a new Stress Level. 
+	This also determines whether the Snap is a physical or mental Snap. 
+	This distinction is important to note down, for the sake of later treatment, since recovering specialties are limited in what type of Snaps they can treat (e.g. First Aid (Medic) can only treat physical Snaps, while Counsel(Spokesman) can only treat mental Snaps).
 
-Snaps are a great way for players and the gamemaster to get creative and come up with situational effects to spice up tense scenes.
-The various example Snaps provided throughout the book should be considered in the following and certainly not as a exhaustive list:
-\begin{itemize}
-	\item As an inspiration to come up with your own Snaps.
-	\item As a fallback / default option to pick when you are out of ideas.
-	\item As a guideline to decide what Stress Level would be appropriate to a supposed Snap.
-\end{itemize}
-
-\begin{DndSidebar}{Quick Guide: Snaps \& Stress Level}
-The severity of a Snap is determined by the characters Stress Level.
-The higher his Level, the worse the effects of a Snap.
-Use the following as a quick guide to decide whether a Snap is appropriate for a given level.
-\begin{enumerate}
-	\item First level Snaps should be minor inconveniences or very short lived. It may restrict the available actions of the character but should not prevent him from making any action in his turn.
+	When taking a Snap, note down the following informations:
 	\begin{itemize}
-		\item Good: Knocked Prone, Knock-back, Suppressed, Disarmed
-		\item Inappropriate: Stunned, pushed into dangerous area, panicked
+		\item Name: The name of the Snap. Short description of the Snap to easily remember what ails your character.
+		\item Stress Level: The Stress Level of your character. E.g. "1" for the first Snap you suffer.
+		\item Type: Physical (P) or Mental (M). The type of attack inflicting the Snap. E.g. a gunshot would be P while a terrifying Warcry would be M.
 	\end{itemize}
-	\item A second level Snap is troublesome. It may add some serious penalties for a short duration (no more than a scene) or medium penalties for a longer duration. Snaps of this category may require specific external action to resolve and may take the character out of the fight for a short duration.
-	\begin{itemize}
-		\item Good: Stunned (1), Panicked, Damaged Limb (requires First Aid), Breathless, knock into danger zone
-		\item Inappropriate: Permanent injury, knocked into lethal zone
-	\end{itemize}
-	\item Taking a third level Snap is bad news. These might be serious penalties, restrict actions and may be either long lasting or even permanent injuries.
-	\begin{itemize}
-		\item Good: Mutilated limb (requires surgery/replacement), knocked into lethal zone, broken will
-		\item Inappropriate: not going nuts
-	\end{itemize}
-\end{enumerate}
-\end{DndSidebar}
-% subsection snap (end)
 
-\subsection*{Wounds}\label{wounds}
-While Stress and Snaps reflect a wide range of external influences that may trouble a character, Wounds are an altogether more critical and life threatening issue and are always physical in nature.
-A character takes a Wound if he is hit by a weapon (or other harmful effect) which his armor is unable to protect him from - or when a character is foolish enough to wade into battle unprotected.
 
+	\begin{DndSidebar}{Snap Example}
+	In the above example, Sister Aryanna took a Snap inflicted by a filthy mutant rat biting her neck and poisoned her!
+	Aryanna's player would thus note down the following on a piece of paper (e.g. a post-it):
+	\begin{itemize}
+		\item Poisoned!
+		\item 1st Level
+		\item Physical
+	\end{itemize}	A possible shorthand that can be used is the following: Poisoned (1P).
+	\end{DndSidebar}
+
+	Snaps are a great way for players and the gamemaster to get creative and come up with situational effects to spice up tense scenes.
+	The various example Snaps provided throughout the book should be considered in the following and certainly not as a exhaustive list:
+	\begin{itemize}
+		\item As an inspiration to come up with your own Snaps.
+		\item As a fall-back / default option to pick when you are out of ideas.
+		\item As a guideline to decide what Stress Level would be appropriate to a supposed Snap.
+	\end{itemize}
+
+	\begin{DndSidebar}{Quick Guide: Snaps \& Stress Level}
+	The severity of a Snap is determined by the characters Stress Level.
+	The higher his Level, the worse the effects of a Snap.
+	Use the following as a quick guide to decide whether a Snap is appropriate for a given level.
+	\begin{enumerate}
+		\item First level Snaps should be minor inconveniences or very short lived. It may restrict the available actions of the character but should not prevent him from making any action in his turn.
+		\begin{itemize}
+			\item Good: Knocked Prone, Knock-back, Suppressed, Disarmed, Shaken, Disoriented
+			\item Inappropriate: Stunned, pushed into dangerous area, Feared
+		\end{itemize}
+		\item A second level Snap is troublesome. It may add some serious penalties for a short duration (no more than a scene) or medium penalties for a longer duration. Snaps of this category may require specific external action to resolve and may take the character out of the fight for a short duration.
+		\begin{itemize}
+			\item Good: Stunned (1), Feared(d5), Damaged Limb, Breathless, knock into danger zone
+			\item Inappropriate: Permanent injury, knocked into lethal zone
+		\end{itemize}
+		\item Taking a third level Snap is bad news. These might be serious penalties, restrict actions and may be either long lasting or even permanent injuries.
+		\begin{itemize}
+			\item Good: Mutilated limb, knocked into lethal zone, Broken Will, Feared(Scene)
+			\item Inappropriate: not going nuts
+		\end{itemize}
+	\end{enumerate}
+	\end{DndSidebar}
+
+\section{Attacking \& Defending}
+	\label{sec:attack_defense}
+	In Grimdark, physical and mental combat follow the same basic principle:
+	\begin{enumerate}
+		\item Attacker declares an attack and the used Specialty and rolls the respective check.
+		\item Defender declares which Specialty he uses to defend himself and rolls the respective check.
+		\item The results are compared to determine the outcome according to the Opposed Roll chart (see \ref{opposed_roll}).
+		\item If the attack was a success, the Defender takes Stress damage as specified by the Attackers Specialty (which may result in a Snap).
+		\item On a Full or Critical Success, some attack Specialties may also trigger some special effects.
+	\end{enumerate}
+
+	\begin{DndSidebar}{Player Facing Rolls}
+		It is highly recommended to provide all relevant information to the players, such that they can resolve their own attack all by themselves. This does not only lighten the burden of the GM (and thus speed up combat), it will also allow players to describe their actions as it plays out in great detail. Just have a bunch of post-its ready with the relevant stats on them and hand them out around as necessary. Bonus points if the player who puts down a NPC is allowed to tear apart the post it!\\\noindent
+		For important enemies, GMs may decide to keep the statistics hidden from the players to increase tension and uncertainty.\\\noindent
+		Sample NPC statistic:
+		\begin{itemize}
+			\item Name: Ork Boy
+			\item PD: Endure(Athlete) [63, 37]
+			\item MD: Selfishness(Betrayer) [32, 58]
+			\item Resilience: 9
+		\end{itemize}
+	\end{DndSidebar}
+
+	\begin{DndSidebar}{Sample Attack}
+		
+	\end{DndSidebar}
