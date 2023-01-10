@@ -1,13 +1,11 @@
-# Grimdark
-Role-Play Game system for games set in the grim-dark fture of Warhammer 40k or other militaristic sci-fantasy settings. It is (very) loosely based on the RPG series of FantasyFlightGames (Dark Heresy, Deathwatch, Only War, etc) but has undergone major rework of nearly any aspect - more than enough to say that is a whole new system, rather than only a simple hack of a base game.
-
-# Road Map
+#MainPages 
+## Roadmap
 This is the extend of things I intend to have in the book when it is done:
 
-## The Core Mechanic ✓
-- Attributes ✓
-    + Attribute Modifiers ✓
-- Aptitudes. ✓
+## The Core Mechanic 
+- Attributes 
+    + Attribute Modifiers 
+- Aptitudes. 
 - Skill Check / Trinary Result ✓
 - Fate ✓
 - Sub-System: Plot Armor
@@ -19,11 +17,10 @@ This is the extend of things I intend to have in the book when it is done:
     - The Check ✓
     - Profession Rating ✓
     - Profession Groups ✓
-    - Synergies ✓
 - Specialties
     - The Check ✓
-    - Levels and Modifiers ✓
-    - Common Usage Tags ✓
+    - Levels and Modifiers 
+    - Common Usage Tags 
 - The Professions ✓
     - Acrobat ✓
     - Athlete ✓
@@ -48,14 +45,14 @@ This is the extend of things I intend to have in the book when it is done:
 - The Specialities:
     - (lots)
 
-## Sub-System: Lifepath Character Ceation ✓
-- The Lifepath creation ✓
-- Step 1: Birthright ✓
-- Step 2: Homeworld ✓
-- Step 3: Childhood ✓
-- Step 4: Education ✓
-- Step 5: Combat Experience ✓
-- Step 6: Early Career ✓
+## Sub-System: Lifepath Character Ceation 
+- The Lifepath creation 
+- Step 1: Birthright 
+- Step 2: Homeworld 
+- Step 3: Childhood 
+- Step 4: Education 
+- Step 5: Combat Experience 
+- Step 6: Early Career 
 
 ## Character Advancement
 - XP
@@ -66,7 +63,7 @@ This is the extend of things I intend to have in the book when it is done:
 ## Combat
 - Initiative & Action Sequence
 - Attack & Defense
-- Resilience & Stress & Snaps ✓
+- Resilience & Stress & Snaps 
 - Armor & Wounds
 - Cover
 - Circumstances & Modifiers

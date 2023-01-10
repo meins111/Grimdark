@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life Path.md",
+                "file": "Main Page.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -32,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Life Path.md",
+                "file": "Main Page.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -87,9 +86,9 @@
           "type": "search",
           "state": {
             "query": "",
-            "matchingCase": false,
+            "matchingCase": true,
             "explainSearch": false,
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical"
           }
@@ -115,7 +114,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "30714949e24225f1",
@@ -127,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Life Path.md",
+            "file": "Main Page.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Life Path.md",
+            "file": "Main Page.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -156,19 +155,20 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Life Path.md"
+            "file": "Main Page.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "b181b0d2bdbd2639",
+  "active": "1f69d67bee077f89",
   "lastOpenFiles": [
-    "Life Path Stages.md",
-    "Life Path.md",
+    "Roadmap.md",
     "Main Page.md",
+    "LifePath/Life Path.md",
     "Untitled.md",
-    "Life Path Events.md"
+    "LifePath/Life Path Stages.md",
+    "LifePath/Life Path Events.md"
   ]
 }
