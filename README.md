@@ -7,7 +7,7 @@ This (unofficial!) TTRPG is meant to be played in the Warhammer 40k setting, all
 Grimdark is heavily influenced (and partially based on) the 40k TTRPGs by Fantasy Flight Games, in particular Only War and Dark Heresy 2nd Edition. It started as a heavy hack of Only War but has slowly evolved into a completely new, custom system drawing inspiration from several other systems like FATE, The One Ring and others. 
 
 ## Getting started
-* [Life Path](<LifePath/Life Path>): fluid character creation by following your characters early life.
+* [Life Path](<LifePath/Life Path.md>): fluid character creation by following your characters early life.
 * [[Core System]]: the basic system used to resolve actions and influence the world around you.
 * Characters in Grimdark are defined by their [[Attribute]]s as well as the [[Profession]] and [[Specialty]] they have selected. Make sure to check out the two (compatible) ways of playing Grimdark: [[Generalist vs Specialist Playstyle]]
 * [[Stress]]: living in the 41st millennium is stressful by definition but your characters are likely to run into trouble involving firearms, hypersonic blades, psychic assaults or warp shenanigans...

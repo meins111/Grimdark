@@ -85,7 +85,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#MainPages",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": true,
@@ -114,7 +114,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "30714949e24225f1",
@@ -164,11 +164,11 @@
   },
   "active": "b181b0d2bdbd2639",
   "lastOpenFiles": [
+    "Roadmap.md",
     "LifePath/Life Path.md",
     "README.md",
     "LifePath/Life Path Stages.md",
     "Life.md",
-    "Roadmap.md",
     "Untitled.md",
     "LifePath/Life Path Events.md"
   ]
