@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Page.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Page.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Main Page.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Main Page.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -155,7 +155,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Main Page.md"
+            "file": "README.md"
           }
         }
       }
@@ -165,7 +165,7 @@
   "active": "1f69d67bee077f89",
   "lastOpenFiles": [
     "Roadmap.md",
-    "Main Page.md",
+    "README.md",
     "LifePath/Life Path.md",
     "Untitled.md",
     "LifePath/Life Path Stages.md",
