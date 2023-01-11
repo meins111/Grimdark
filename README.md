@@ -8,7 +8,7 @@ Grimdark is heavily influenced (and partially based on) the 40k TTRPGs by Fantas
 
 ## Getting started
 * [Life Path](<LifePath/Life Path.md>): fluid character creation by following your characters early life.
-* [[Core System]]: the basic system used to resolve actions and influence the world around you.
+* [Core System](<CoreSystem/Core System.md>): the basic system used to resolve actions and influence the world around you.
 * Characters in Grimdark are defined by their [[Attribute]]s as well as the [[Profession]] and [[Specialty]] they have selected. Make sure to check out the two (compatible) ways of playing Grimdark: [[Generalist vs Specialist Playstyle]]
 * [[Stress]]: living in the 41st millennium is stressful by definition but your characters are likely to run into trouble involving firearms, hypersonic blades, psychic assaults or warp shenanigans...
 * [[Combat]]: in an universe were there is only war, combat is next to unavoidable. Check this out to see how Grimdark resolves combat.
