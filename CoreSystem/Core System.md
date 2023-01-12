@@ -1,3 +1,4 @@
+#CoreSystem #MainPages 
 Grimdark's core is a d100 based roll-under system. This means you will roll d100's and aim to roll under a given target number (ranging from 0-100). This target number usually is one of your character's [Attribute](<CoreSystem/Attribute.md>).
 
 * [Basic Roll](<CoreSystem/Basic Roll.md>) - the fundamental d100 dice roll used by Grimdark
