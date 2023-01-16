@@ -5,5 +5,5 @@
 
 Additional Fate Results:
 
-* ''Critical Fail:'' A Fail with at least one [Fate](<CoreSystem/Fate.md>) die (Double digit)
-* ''Critical Success'': A Full Success with at least one [Fate](<CoreSystem/Fate.md>) die (Double Digit)
+* ''Critical Fail:'' A Fail with at least one [Fate](</CoreSystem/Fate.md>) die (Double digit)
+* ''Critical Success'': A Full Success with at least one [Fate](</CoreSystem/Fate.md>) die (Double Digit)
