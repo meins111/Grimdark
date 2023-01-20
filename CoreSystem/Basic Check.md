@@ -1,10 +1,10 @@
 ## Overview
-The central resolution mechanic of Grimdark. It combines two [Basic Roll](<CoreSystem/Basic Roll.md>)s, each against a different Target Number to produce a [Trinary Outcome](<CoreSystem/Trinary Outcome.md>).
+The central resolution mechanic of Grimdark. It combines two [Basic Roll](</CoreSystem/Basic Roll.md>)s, each against a different Target Number to produce a [Trinary Outcome](</CoreSystem/Trinary Outcome.md>).
 
-Usually, the Target Numbers are two of the character's [Attribute](<CoreSystem/Attribute.md>)s, as is the case for all Specialities and Profession Checks. In some cases, other values (e.g. [Item Rating](<Armoury/Item Rating.md>) or [Durability](<Durability.md>)) are used. One example of this is the [Armor Save](<Combat/Armor Save.md>).
+Usually, the Target Numbers are two of the character's [Attribute](</CoreSystem/Attribute.md>)s, as is the case for all Specialities and Profession Checks. In some cases, other values (e.g. [Item Rating](</Armoury/Item Rating.md>) or [Durability](</Durability.md>)) are used. One example of this is the [Armor Save](</Combat/Armor Save.md>).
 
 ## Trinary Results
-![](<CoreSystem/Trinary Outcome.md>)
+![](</CoreSystem/Trinary Outcome.md>)
 
 >[!Basic Check Example]-
 >_Sergej, the ex-guardsman and newest member of I quisitor Brecht's warband, is currently fleeing for his life in a hijacked cargo-eight truck from a bunch of horrifying mutants. During the chase, he suddenly finds himself on a one-way lane rushing towards a bridge spanning two hive blocks... A bridge in the process of being raised in an attempt of the local enforcers to cordon off the sudden outbreak of disorder in Block 87.
