@@ -13,5 +13,4 @@ Additionally, you may want to cooperate with your fellow players during Characte
 ## Stages
 ![](<Life Path Stages.md>)
 
-
-* ![Life Path Events](<Life Path Events.md>)
+![Life Path Events](<Life Path Events.md>)
