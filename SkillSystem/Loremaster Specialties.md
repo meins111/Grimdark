@@ -1,0 +1,8 @@
+- [Classic Education](</SkillSystem/Specialties/Classic Education.md>)
+- [Imperium of Man](</SkillSystem/Specialties/Imperium of Man.md>)
+- [Occult](</SkillSystem/Specialties/Occult.md>)
+- [Shadow Organizations](</SkillSystem/Specialties/Shadow Organizations.md>)
+- [Tacticia Imperialis](</SkillSystem/Specialties/Tacticia Imperialis.md>)
+- [Cult Mechanicus](</SkillSystem/Specialties/Cult Mechanicus.md>)
+- [Xenology](/SkillSystem/Specialties/Xenology.md)
+- [Warplore](/SkillSystem/Specialties/Warplore.md)

@@ -1,0 +1,5 @@
+- [Communion](</SkillSystem/Specialties/Communion.md>)
+- [Override](</SkillSystem/Specialties/Override.md>)
+- [Rites of Activation](</SkillSystem/Specialties/Rites if Activation.md>)
+- [Rites of Maintenance](</SkillSystem/Specialties/Rites if Maintenance.md>)
+- [Rites of Creation](</SkillSystem/Specialties/Rites of Creation.md>)

@@ -1,0 +1,4 @@
+- [Sneak](/SkillSystem/Specialties/Sneak.md)
+- [Hide](/SkillSystem/Specialties/Hide.md)
+- [Shadowing](/SkillSystem/Specialties/Shadowing.md)
+- [Vanish](/SkillSystem/Specialties/Vanish.md)

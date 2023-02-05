@@ -1,0 +1,4 @@
+- [Lipreading](</SkillSystem/Specialties/Lipreading.md>)
+- [Scrutiny](</SkillSystem/Specialties/Scrutiny.md>)
+- [Search](</SkillSystem/Specialties/Search.md>)
+- [Situation Awareness](</SkillSystem/Specialties/Situational Awareness.md>)

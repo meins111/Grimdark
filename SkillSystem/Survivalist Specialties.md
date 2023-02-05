@@ -1,0 +1,5 @@
+- [Forage](</SkillSystem/Specialties/Forage.md>)
+- [Cooking](</SkillSystem/Specialties/Cooking.md>)
+- [Improvise](</SkillSystem/Specialties/Improvise.md>)
+- [Taming](</SkillSystem/Specialties/Taming.md>)
+- [Survival Instinct](</SkillSystem/Specialties/Survival Instinct.md>)

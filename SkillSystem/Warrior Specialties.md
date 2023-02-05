@@ -1,0 +1,7 @@
+- [Cleave](</SkillSystem/Specialties/Cleave.md>)
+- [Combat Maneuver](</SkillSystem/Specialties/Combat Maneuver.md>)
+- [Hammerblow](</SkillSystem/Specialties/Hammerblow.md>)
+- [Fencing](</SkillSystem/Specialties/Fencing.md>)
+- [Lightning Strike](</SkillSystem/Specialties//Lightning Strike.md>)
+- [Lethal Strike](</SkillSystem/Specialties/Lethal Strike.md>)
+- [Gunfoo](</SkillSystem/Specialties/Gunfoo.md>)

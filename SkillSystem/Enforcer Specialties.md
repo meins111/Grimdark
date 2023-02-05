@@ -1,0 +1,5 @@
+- [Integrity](/SkillSystem/Specialties/Integrity.md)
+- [Blackmail](/SkillSystem/Specialties/Blackmail.md)
+- [Interrogate](/SkillSystem/Specialties/Interrogate.md)
+- [Terrify](/SkillSystem/Specialties/Terrify.md)
+- [Torture](/SkillSystem/Specialties/Torture.md)

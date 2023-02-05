@@ -8,7 +8,7 @@ It does also have, quite obviously, fundamental roleplay implications and narrat
 
 ## Character Creation Effect
 * Attribute Baseline: your character's Birthright decides the starting [Attribute](</LifePath/Attribute.md>) scores. During the later [Life Path](</LifePath/Life Path.md>) steps, those baseline scores will be further adjusted.
-* Attribute Limits: there is a natural limit to what can be achieved by training and experience alone. Characters can increase their [Attribute](</LifePath/Attribute.md>) only up to those [Attribute Limit](</LifePath/Attribute Limit.md>) indicated by their birthright using natural means of [Character Development](</LifePath/Character Development.md>). [Going beyond Limits](</LifePath/Going beyond Limits.md>) is possible but requires specific means which may or mau not be readily available for a given character.
+* Attribute Limits: there is a natural limit to what can be achieved by training and experience alone. Characters can increase their [Attributes](</CoreSystem/Attribute.md>) only up to the respective [Attribute Limit](</CoreSystem/Attribute Limit.md>) indicated by their birthright. At least by using natural means of [Character Development](</LevelUp/Character Development.md>). [Going beyond Limits](</LevelUp/Going beyond Limits.md>) is possible but requires specific means which may or mau not be readily available for a given character.
 
 ## [List of Birthrights](</LifePath/List of Birthrights.md>)
 ![](</LifePath/List of Birthrights.md>)

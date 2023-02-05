@@ -1,0 +1,6 @@
+- [Deceive](/SkillSystem/Specialties/Deceive.md)
+- [Disguise](/SkillSystem/Specialties/Disguise.md)
+- [Forgery](/SkillSystem/Specialties/Forgery.md)
+- [Selfishness](/SkillSystem/Specialties/Selfishness.md)
+- [Theft](/SkillSystem/Specialties/Theft.md)
+- [Smuggle](/SkillSystem/Specialties/Smuggle.md)

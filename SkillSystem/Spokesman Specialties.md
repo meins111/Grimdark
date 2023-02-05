@@ -1,0 +1,5 @@
+- [Distract](</SkillSystem/Specialties/Distract.md>)
+- [Inquiry](</SkillSystem/Specialties/Inquiry.md>)
+- [Pretty Words](</SkillSystem/Specialties/Pretty Words.md>)
+- [Quarrel](</SkillSystem/Specialties/Quarrel.md>)
+- [Seduce](</SkillSystem/Specialties/Seduce.md>)

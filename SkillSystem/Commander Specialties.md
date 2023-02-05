@@ -1,0 +1,4 @@
+- [Tactical Insight](</SkillSystem/Specialties/Tactical Insight.md>)
+- [Pull Rank](</SkillSystem/Specialties/Pull Rank.md>)
+- [Rally](/SkillSystem/Specialties/Rally.md)
+- [Loyalty](/SkillSystem/Specialties/Loyalty.md)
