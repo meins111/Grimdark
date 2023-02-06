@@ -1,7 +1,7 @@
 #CoreSystem 
-* ''Fail'': Both rolls failed.
-* ''Partial Success'': one roll failed the other succeeded.
-* ''Full Success'': both rolls succeeded
+* ''Fail'': Both rolls failed. The action fails and there is a [Complication](/SkillSystem/Complications)
+* ''Partial Success'': one roll failed the other succeeded. The action succeeded but there is a [Complication](/SkillSystem/Complications)
+* ''Full Success'': both rolls succeeded. The action is a complete success.
 
 Additional Fate Results:
 
