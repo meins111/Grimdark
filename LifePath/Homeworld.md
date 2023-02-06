@@ -8,5 +8,5 @@ The "world" on which a character is born has a fundamental impact on many of his
 * Three [Specialty](/SkillSystem/Specialty.md) points
 * 1st [Aptitude](/LevelUp/Aptitudes.md)
 
-## [List of Homeworlds](</LifePath/List of Homeworlds.md>)
-![](/LifePath/List%20of%20Homeworlds)
+## [List of Homeworlds](</LifePath/Homeworld/List%20of%20Homeworlds.md>)
+![](/LifePath/Homeworld/List%20of%20Homeworlds.md)

@@ -10,4 +10,4 @@ The "world" on which a character is born has a fundamental impact on many of his
 * 1st [[Aptitude]]
 
 ## Homeworlds
-![](/LifePath/HomeworldList.md)
+![](LifePath/Homeworld/HomeworldList.md)

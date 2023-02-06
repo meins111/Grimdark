@@ -1,0 +1,22 @@
+|Group |Professions |
+|-------| ------------ |
+|Physical |[Athlete](</SkillSystem/Professions/Athlete.md>)| 
+|Physical |[Acrobat](</SkillSystem/Professions/Acrobat.md>) |
+|Social |[Believer](</SkillSystem/Professions/Believer.md>)  |
+|Social |[Believer](</SkillSystem/Professions/Believer.md>) |
+|Social |[Commander](</SkillSystem/Professions/Commander.md>) |
+|Social |[Enforcer](</SkillSystem/Professions/Enforcer.md>) |
+|Instinctual |[Ghost](</SkillSystem/Professions/Ghost.md>) |
+|Physical |[Gunman](</SkillSystem/Professions/Gunman.md>) |
+|Intellectual |[Loremaster](</SkillSystem/Professions/Loremaster.md>) |
+|Intellectual |[Medic](</SkillSystem/Professions/Medic.md>) |
+|Intellectual |[Navigator](</SkillSystem/Professions/Navigator.md>) |
+|Instinctual |[Observer](</SkillSystem/Professions/Observer.md>) |
+|Instinctual |[Operator](</SkillSystem/Professions/Operator.md>) |
+|Intellectual |[Rationalist](</SkillSystem/Professions/Rationalist.md>) |
+|Social |[Spokesman](</SkillSystem/Professions/Spokesman.md>) |
+|Instinctual |[Survivalist](</SkillSystem/Professions/Survivalist.md>) |
+|Intellectual |[Technologist](</SkillSystem/Professions/Technologist.md>) |
+|Intellectual |[Tinkerer](</SkillSystem/Professions/Tinkerer.md>) |
+|Social |[Trader](</SkillSystem/Professions/Trader.md>) |
+|Physical |[Warrior](</SkillSystem/Professions/Warrior.md>) |

@@ -18,4 +18,5 @@ Knowledge and gut feeling required to properly interpret even the tiniest hints.
 * The "Face"
 * Survivalist
 * Diplomat
+* Detective
 
