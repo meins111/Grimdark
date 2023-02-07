@@ -6,7 +6,7 @@ The "world" on which a character is born has a fundamental impact on many of his
 * Three [[Attribute]] modifiers. 
 **Two positive (+3 each) 
 ** One negative (-3)
-* Three [[Specialty]] points
+* Three [[SkillSystem/Specialties/Specialty]] points
 * 1st [[Aptitude]]
 
 ## Homeworlds

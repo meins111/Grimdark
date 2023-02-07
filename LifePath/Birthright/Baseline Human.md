@@ -7,4 +7,4 @@ While the multitude of environments inhabited by men in the grim-dark future has
 
 ## Natural Attribut Limits
 
-![](/LifePath/HumanBaseLineLimits.md)
+![](LifePath/Birthright/Human%20Limits.md)
