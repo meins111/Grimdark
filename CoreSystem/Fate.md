@@ -1,5 +1,5 @@
 #CoreSystem 
-*/Fate is a frickle friend. As likely to tip the balance in your favour as it is to make your carefully planned operation go off the rails in the most spectacular manner.._*
+_Fate is a frickle friend. As likely to tip the balance in your favour as it is to make your carefully planned operation go off the rails in the most spectacular manner._
 
 ## Fate Dice
 * A Fate Dice is a [Basic Roll](</CoreSystem/Basic Roll.md>) which comes up with double digits (e.g. 11, 22, 33, ..., 99, 100)

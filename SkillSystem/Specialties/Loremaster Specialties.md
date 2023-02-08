@@ -4,5 +4,5 @@
 - [Shadow Organizations](</SkillSystem/Specialties/Shadow Organizations.md>)
 - [Tacticia Imperialis](</SkillSystem/Specialties/Tacticia Imperialis.md>)
 - [Cult Mechanicus](</SkillSystem/Specialties/Cult Mechanicus.md>)
-- [Xenology](/SkillSystem/Specialties/Xenology.md)
-- [Warplore](/SkillSystem/Specialties/Warplore.md)
+- [Xenology](</SkillSystem/Specialties/Xenology.md>)
+- [Warplore](</SkillSystem/Specialties/Warplore.md>)

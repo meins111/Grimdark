@@ -9,5 +9,5 @@ You should note down whether your character embraces or (potentially secretly) r
 * One Attribute increase (+3)
 * Aptitude #2
 * 1 Profession & 2 Ranks in associated Specialties
-## [List of Childhoods](/LifePath/Childhood/List%20of%20Childhoods.md)
-![](/LifePath/Childhood/List%20of%20Childhoods.md)
+## [List of Childhoods](</LifePath/Childhood/List%20of%20Childhoods.md>)
+![](</LifePath/Childhood/List%20of%20Childhoods.md>)

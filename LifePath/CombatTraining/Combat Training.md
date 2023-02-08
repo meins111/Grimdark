@@ -9,4 +9,4 @@ In a galaxy where there is only war, the vast majority of people have come to ex
     * 2 Specialty Ranks within 
 
 ## [List of Combat Training](</LifePath/CombatTraining/List of Combat Trainings.md>)
-![](/LifePath/CombatTraining/List%20of%20Combat%20Trainings)
+![](</LifePath/CombatTraining/List%20of%20Combat%20Trainings)

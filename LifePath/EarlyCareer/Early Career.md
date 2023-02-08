@@ -11,4 +11,4 @@ Those range from the mundanity of a baker or miner to the honorable soldiers of 
    * 3 Specialty Ranks to spend within 
 
 ## [List of Early Careers](</LifePath/EarlyCareer/List of Early Careers.md>)
-![](/LifePath/EarlyCareer/List%20of%20Early%20Careers.md)
+![](</LifePath/EarlyCareer/List%20of%20Early%20Careers.md>)

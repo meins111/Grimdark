@@ -11,4 +11,4 @@ The ways your character got to learn about the important things in life: the Imp
 
 
 ## [List of Educations](</LifePath/Education/List of Educations.md>)
-![](/LifePath/Education/List%20of%20Educations)
+![](</LifePath/Education/List%20of%20Educations)

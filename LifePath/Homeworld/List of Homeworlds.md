@@ -1,5 +1,5 @@
-* [Agriworld](LifePath/Homeworld/Agriworld.md)
-* [Hive World](LifePath/Homeworld/Hiveworld.md)
+* [Agriworld](</LifePath/Homeworld/Agriworld.md>)
+* [Hive World](</LifePath/Homeworld/Hiveworld.md>)
 * [Forge World](</LifePath/Homeworld/Forge World.md>)
 * [Fortress World](</LifePath/Homeworld/Fortress World.md>)
 * [Feral World](</LifePath/Homeworld/Feral World.md>)

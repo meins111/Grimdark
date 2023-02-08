@@ -2,7 +2,7 @@
 ## Overview
 Grimdark offers two ways of building and playing characters. They are called the [Generalist](</SkillSystem/Generalist Playstyle.md>) and [Specialist](</SkillSystem/Specialist Playstyle.md>) paths.
 
-In short, the Generalist Path does not track individual [Specialties](SkillSystem/Specialties/Specialty.md) of a character. Using this playstyle, checks are always resolved using a [Profession Check](SkillSystem/Professions/Profession%20Check.md Check.md>). This leads to a more simplistic gameplay compared to the Specialist Path. 
+In short, the Generalist Path does not track individual [Specialties](SkillSystem/Specialties/Specialty.md) of a character. Using this playstyle, checks are always resolved using a [Profession Check](/SkillSystem/Professions/Profession%20Check.md>). This leads to a more simplistic gameplay compared to the Specialist Path. 
 
 On the other hand, many players do enjoy the nitty-gritty of detailed character creation and development provided by the Specialist Path.
 
