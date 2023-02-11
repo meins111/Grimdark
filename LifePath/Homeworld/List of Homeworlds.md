@@ -8,3 +8,4 @@
 * [Imperial World](</LifePath/Homeworld/Imperial World.md>)
 * [Voidborn](</LifePath/Homeworld/Voidborn.md>)
 * [Shrineworld](</LifePath/Homeworld/Shrineworld.md>)
+* [Fringe World](</LifePath/Homeworld/Fringe World.md>)

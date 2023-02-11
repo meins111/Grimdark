@@ -1,3 +1,4 @@
+#CharacterCreation #life-path 
 ## Description
 Being born on the beating, pounding heart of an Adeptus Mechanicus Forge World is being surrounded by servitors, augmented menials and Magi more machine wherever one goes.
 
@@ -16,4 +17,6 @@ Most forges are very strictly hierarchical and organized. This ranges from regul
 	  - Rites of Maintenance (Technologist),
 	  - any Tinkerer
 
+## Other Options
 
+![](</LifePath/Homeworld/List of Homeworlds.md>)

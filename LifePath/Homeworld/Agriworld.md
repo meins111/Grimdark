@@ -14,3 +14,7 @@ These are the corn baskets of the Imperium, producing unbelievable amounts of fo
       - Sneak (Ghost), Sniping (Gunman)
       - Taming (Survivalist), Tinkerer (Jury-Rig)
       - Endure (Athlete), Hammerblow (Warrior)
+
+## Other Options
+
+![](</LifePath/Homeworld/List of Homeworlds.md>)
