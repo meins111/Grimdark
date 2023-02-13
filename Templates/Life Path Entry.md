@@ -1,7 +1,11 @@
-#CharacterCreation #life-path 
+#CharacterCreation #life-path #combat-training
 ## Description
 
 ## Character Creation Modifiers
-
+- Attribute: +3 to 
+- Primary Profession: (choose one)
+	- 
+- Supplementary Profession: (choose one)
+	- 
 ## Other Options
-![](</LifePath/INSERT.md>)
+![](</LifePath/CombatTraining/List of Combat Trainings.md>)

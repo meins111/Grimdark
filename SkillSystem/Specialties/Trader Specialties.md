@@ -2,3 +2,4 @@
 - [Bookkeeping](</SkillSystem/Specialties/Bookkeeping.md>)
 - [Bribe](</SkillSystem/Specialties/Bribe.md>)
 - [Estimate](</SkillSystem/Specialties/Estimate.md>)
+- [Artistry](/SkillSystem/Specialties/Artistry.md)

@@ -1,10 +1,9 @@
-* [Adeptus Terra Novice](</LifePath/EarlyCareer/Adeptus Terra Novice md>) (with various Sub-options)
-	* Arbites
-	* Administratum
-	* Ministorum (Ecclesiarchy)
-	* Mechanicus
-	* Inquisition
-	* Officio Assassinorum
+* [Officio Assassinorum](</LifePath/EarlyCareer/Officio Assassinorum.md>)
+* [Inquisition](</LifePath/EarlyCareer/Inquisition.md>)
+* [Ecclesiarchy](</LifePath/EarlyCareer/Adeptus Ministorum.md>)
+* [Adeptus Arbites](</LifePath/EarlyCareer/Adeptus Arbites.md>)
+* [Adeptus Administratum](</LifePath/EarlyCareer/Adeptus Administratum.md>)
+* [Adeptus Mechanicus](</LifePath/EarlyCareer/Adeptus Mechanicus.md>)
 * [Hunter](</LifePath/EarlyCareer/Hunter.md>)
 * [Artisan](</LifePath/EarlyCareer/Artisan.md>)
 * [Operator](</LifePath/EarlyCareer/Operator.md>)

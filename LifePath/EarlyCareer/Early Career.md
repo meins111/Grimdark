@@ -1,4 +1,4 @@
-#CharacterCreation #life-path 
+#CharacterCreation #life-path #early-career
 ## Overview
 The early stages of your career, which may or may not be associated with your characters current or future work. In a galaxy spanning empire like the Imperium, there are myriad jobs and professions available for the taking. 
 Those range from the mundanity of a baker or miner to the honorable soldiers of the Astra Militarumor the lawbringers of the Adeptus Arbites all the way to the endless numbers of scribes and adepts making up the vast bureaucracy of every the Imperium.

@@ -2,8 +2,9 @@
 ## Overview
 The early years of your character's life can and will have left marks (or even scars) on him. Was he born to a noble family or to an inderhive joy girl Just making do? Was he one of the few to enjoy a somewhat intact family or was he faced with coldness, distancy or even outright abandonment?
 
-## To Embrace or to Reject?
-You should note down whether your character embraces or (potentially secretly) rejects his own upbringing. Some of the options in [[LifePath/Childhood/List of Childhoods]] may provide different sets of Character Creation Modifiers based on your character embracing or rejecting his upbringing.
+> [!todo] To Embrace or to Reject (ToDo)
+> You should note down whether your character embraces or (potentially secretly) rejects his own upbringing. This will alter the character creation modifiers you will get from the selected option (typically the reverse).
+
 
 ## Character Creation Effect
 * One Attribute increase (+3)

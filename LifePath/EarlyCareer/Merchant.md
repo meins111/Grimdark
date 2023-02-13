@@ -1,0 +1,15 @@
+#CharacterCreation #life-path #early-career 
+## Description
+You are or were a (more or less successful) merchantman in the past. Whether you transported goods between primitive settlements on the back of some animal of burden or had command ober your own voidship does change little (beside scale and the chance to get lost in the warp).
+
+## Character Creation Modifiers
+- Attributes:
+	- +3 Cunning OR Will
+	- +3 Spees OR Instincts 
+	- -3 Toughness OR Brutality 
+- Primary Profession: (choose one)
+	- Trader
+- Secondary Profession: (choose one)
+	- Survivalist, Navigator, Spokesman, Betrayer, Loremaster 
+## Other Options
+![](</LifePath/EarlyCareer/List of Early Careers.md>)
