@@ -10,12 +10,12 @@ Each step of the way will have various options to choose from, but each of those
 The following general considerations apply:
 1. If you intent to play using the [Generalist Playstyle](</SkillSystem/Generalist Playstyle.md>) and you get a [Specialty](</SkillSystem/Specialties/Specialty.md>), simply put a dot next to the associated Profession.
 2. If you gain the same [Specialty](</SkillSystem/Specialties/Specialty.md>) from subsequent stages, you simply increase its [Specialty Rank](</SkillSystem/Specialty Ranks.ms>) by one.
-3. Within one Stage, you may not select the same Specialty more than once.
+3. Within one Stage, you may not select the same Specialty or Profession more than once.
 4. Make sure to note down the options you took for each stage. These are your [Origin Traits](</Traits/Origin Trait.md>), which can be invoked during play to gain modifiers.
 
 ## Cooperative Character Creation
 Depending on the setting your GM has in mind, he may limit some of the available choices in any of the life path steps. If his story is about the rise and fall of an Underhive gang, a righteous enforcer of the Arbitrators simply doesn't fit in easily.
-Additionally, you may want to cooperate with your fellow players during Character creation, building some ties into each other's backstory. Maybe you are all from the same [Homeworld](</LifePath/Homeworld/Homeworld.md>), or have gone through basic PDF training together ([Combat Training](</LifePath/Combat Training.md>))? Maybe one is a long lost [Childhood 1](</LifePath/Childhood/Childhood%201.md>) friend or you were former rivals for the same position during your [Early Career](</LifePath/Early Career.md>)?
+Additionally, you may want to cooperate with your fellow players during Character creation, building some ties into each other's backstory. Maybe you are all from the same [Homeworld](</LifePath/Homeworld/Homeworld.md>), or have gone through basic PDF training together ([Combat Training](</LifePath/CombatTraining/Combat Training.md>))? Maybe one is a long lost [Childhood](</LifePath/Childhood/Childhood.md>) friend or you were former rivals for the same position during your [Early Career](</LifePath/EarlyCareer/Early Career.md>)?
 
 
 ## Stages

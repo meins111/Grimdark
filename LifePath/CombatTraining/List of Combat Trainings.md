@@ -7,4 +7,6 @@
 * [Gang War](</LifePath/CombatTraining/Gang War.md>)
 * [Hostile Wildlife](</LifePath/CombatTraining/Hostile Wildlife.md>)
 * [Traditional](</LifePath/CombatTraining/Traditional.md>)
+* [Brawl](</LifePath/CombatTraining/Brawl.md>)
+* [Motorized Warfare](</LifePath/CombatTraining/Motorized Warfare.md>)
 * [None](</LifePath/CombatTraining/None.md>)
