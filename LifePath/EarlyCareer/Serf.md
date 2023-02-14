@@ -11,5 +11,7 @@ You spent some time working in a thankless menial job like the vast majority of 
 	- Athlete, Spokesman, Tinkerer
 - Secondary Profession: (choose one)
 	- Athlete, Spokesman, Tinkerer, Trader
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

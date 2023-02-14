@@ -14,5 +14,7 @@ You were born into a family with a sophisticated business. This can be anything 
 	- Enforcer 
 	- Navigator
 
+## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
+
 ## Other Options
 ![](</LifePath/Childhood/List of Childhoods.md>)

@@ -23,5 +23,7 @@ Yet other Fringe Worlds try to make up for their relative unimportance by dialin
 		- Imperium of Man (Loremaster)
 		- Shadow Organizations (Loremaster)
 
+## [Next Life Path Stage: Childhood](</LifePath/Childhood/Childhood.md>)
+
 ## Other Options
 ![](</LifePath/Homeworld/List of Homeworlds.md>)

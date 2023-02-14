@@ -9,5 +9,7 @@ You were born into a noble family. Etiquette, controlled demeanor and careful sc
 - Profession: Spokesman OR Betrayer
 	- 2 associated Specialties 
 
+## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
+
 ## Other Options
 ![](</LifePath/Childhood/List of Childhoods.md>)

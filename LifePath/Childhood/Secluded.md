@@ -9,5 +9,7 @@ Whatever the case, your early years were spent in a very tiny bubble and you had
 - Aptitude: Precision OR Cunning OR Speed
 - Profession: Loremaster, Rationalist, Tinkerer, Believer
 
+## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
+
 ## Other Options
 ![](</LifePath/Childhood/List of Childhoods.md>)

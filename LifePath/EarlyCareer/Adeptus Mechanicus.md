@@ -12,5 +12,7 @@ The martians price knowledge and technology above all else - often to the detrim
 	- Technologist, Rationalist, Loremaster,  Operator
 - Secondary Profession: (choose one)
 	- Technologist, Rationalist, Loremaster, Operator, Tinkerer, Believer
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

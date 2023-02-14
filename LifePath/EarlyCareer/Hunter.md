@@ -12,5 +12,7 @@ This is a mostly solitary career, spent far removed from the teeming mass of civ
 	- Warrior, Gunman, Survivalist, Ghost
 - Secondary Profession: (choose one)
 	- Warrior, Gunman, Observer, Survivalist, Ghost, Athlete
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

@@ -21,5 +21,7 @@ There are (at most) the early stages of industry on the rise, gunpowder and stea
 		- Center Mass (Gunman)
 		- Faith (Believer)
 
+## [Next Life Path Stage: Childhood](</LifePath/Childhood/Childhood.md>)
+
 ## Other Options
 ![](</LifePath/Homeworld/List of Homeworlds.md>)

@@ -12,3 +12,5 @@ The early years of your character's life can and will have left marks (or even s
 * 1 Profession & 2 Ranks in associated Specialties
 ## [List of Childhoods](</LifePath/Childhood/List%20of%20Childhoods.md>)
 ![](</LifePath/Childhood/List%20of%20Childhoods.md>)
+
+## [Next Life Path Stage: Education](</LifePath/Education/Education.md>) 

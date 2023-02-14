@@ -11,5 +11,7 @@ The nature of the Tutor directly influences the passed-on knowledge.
 - Group Aptitude: any
 - Profession: any two associated with the selected group
 
+## [Next Life Path Stage: Early Career](</LifePath/EarlyCareer/Early Career.md>)
+
 ## Other Options
 ![](</LifePath/Education/List of Educations.md>)

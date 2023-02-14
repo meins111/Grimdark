@@ -12,5 +12,7 @@ You may have been a simple regular informant or data analyst or a basic member o
 	- Loremaster, Observer, Enforcer, Betrayer, Spokesman, Gunman, Warrior, Acrobat 
 - Secondary Profession: (choose one)
 	- any
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

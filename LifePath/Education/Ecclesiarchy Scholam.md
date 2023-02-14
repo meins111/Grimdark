@@ -14,5 +14,7 @@ Ecclesiarchy scholams are often strict and sometimes even brutal, especially to 
 	- Believer
 	- Loremaster OR Athlete
 
+## [Next Life Path Stage: Early Career](</LifePath/EarlyCareer/Early Career.md>)
+
 ## Other Options
 ![](</LifePath/Education/List of Educations.md>)

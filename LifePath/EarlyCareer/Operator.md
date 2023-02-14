@@ -12,5 +12,7 @@ Whatever the case, you have learned much of how to _use_ technology if not _how_
 	- Operator
 - Secondary Profession: (choose one)
 	- Tinkerer, Technologist, Trader 
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

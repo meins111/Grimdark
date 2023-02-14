@@ -8,5 +8,7 @@ Whatever the circumstances: life and work was hard and unrelenting.
 - Aptitude: Toughness OR Will 
 - Profession: Athlete
 
+## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
+
 ## Other Options
 ![](</LifePath/Childhood/List of Childhoods.md>)

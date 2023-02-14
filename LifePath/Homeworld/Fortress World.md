@@ -24,5 +24,7 @@ Riddled with fortifications and supply depots, its population drilled and equipp
 		- Calculus (Rationalist)
 
 
+## [Next Life Path Stage: Childhood](</LifePath/Childhood/Childhood.md>)
+
 ## Other Options
 ![](</LifePath/Homeworld/List of Homeworlds.md>)

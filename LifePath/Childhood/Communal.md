@@ -8,5 +8,7 @@ You were primarily raised by a close-knit, local community. Whether you are an o
 - Aptitude: Will OR Precision
 - Profession: Trader, Tinkerer, Survivalist, Acrobat, Athlete, Betrayer, Believer, Warrior
 
+## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
+
 ## Other Options
 ![](/LifePath/Childhood/List%20of%20Childhoods.md)

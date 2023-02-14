@@ -14,5 +14,7 @@ Whatever the case, keep in mind that at this stage you certainly are not a prope
 - Secondary Profession: (choose one)
 	- Warrior, Gunman, Observer, Survivalist, Tinkerer, Betrayer 
 
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

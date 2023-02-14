@@ -15,5 +15,7 @@ These stories, myths, parables and instructions naturally contain some (at least
 	- Believer OR Survivalist 
 	- Observer OR Acrobat OR Ghost
 
+## [Next Life Path Stage: Early Career](</LifePath/EarlyCareer/Early Career.md>)
+
 ## Other Options
 ![](</LifePath/Education/List of Educations.md>)

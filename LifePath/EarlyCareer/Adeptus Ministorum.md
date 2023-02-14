@@ -11,5 +11,7 @@ You are (or at least were) an ordained member of the vast priesthood of the Eccl
 	- Believer
 - Secondary Profession: (choose one)
 	- Spokesman, Enforcer, Observer, Loremaster, Trader
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

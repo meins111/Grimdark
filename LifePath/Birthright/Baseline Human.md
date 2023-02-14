@@ -8,3 +8,8 @@ While the multitude of environments inhabited by men in the grim-dark future has
 ## Natural Attribut Limits
 
 ![](</LifePath/Birthright/Human%20Limits.md>)
+
+## Other Options
+![](</LifePath/Birthright/List of Birthrights.md>)
+
+## [Next Life Path Stage: Homeworld](</LifePath/Homeworld/Homeworld.md>)

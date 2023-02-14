@@ -21,5 +21,7 @@ You were born and grew up among the stars. Maybe aboard a station or (more likel
 		- Improvise (Survival)
 
 
+## [Next Life Path Stage: Childhood](</LifePath/Childhood/Childhood.md>)
+
 ## Other Options
 ![](</LifePath/Homeworld/List of Homeworlds.md>)

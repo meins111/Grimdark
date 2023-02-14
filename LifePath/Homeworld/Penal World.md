@@ -10,5 +10,7 @@ Life on a penal world is purposefully harsh. Its inhabitants may be used as forc
 	- +3 to one of: Toughness, Instincts, Speed
 	- -3 to Will OR Precision 
 
+## [Next Life Path Stage: Childhood](</LifePath/Childhood/Childhood.md>)
+
 ## Other Options
 ![](</LifePath/Homeworld/List of Homeworlds.md>)

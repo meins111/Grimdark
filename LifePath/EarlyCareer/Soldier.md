@@ -13,5 +13,7 @@ At most your rank is that if a Sergeant at this point of your career.
 - Secondary Profession: (choose one)
 	- Gunman, Warrior, Athlete, Medic, Acrobat, Commander 
 
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

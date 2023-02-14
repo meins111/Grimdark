@@ -13,5 +13,7 @@ Whatever your origin, once inside the Scholam every pupil is treated the same ha
 - Professions: 
 	- any two of: Believer, Commander, Warrior, Gunman, Athlete, Tinkerer, Enforcer
 
+## [Next Life Path Stage: Early Career](</LifePath/EarlyCareer/Early Career.md>)
+
 ## Other Options
 ![](</LifePath/Education/List of Educations.md>)

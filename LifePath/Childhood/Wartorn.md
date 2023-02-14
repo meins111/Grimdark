@@ -10,5 +10,7 @@ This has left a hard, uncompromising streak in your character that may be very m
 - Aptitude: Brutality
 - Professio: Athlete, Ghost, Gunman, Survivalist, Warrior
 
+## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
+
 ## Other Options
 ![](</LifePath/Childhood/List of Childhoods.md>)

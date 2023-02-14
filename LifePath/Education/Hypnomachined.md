@@ -13,5 +13,7 @@ And yet this method was never intended to replace actual learning and understand
 	- Loremaster
 	- Rationalist OR Believer OR Technologist
 
+## [Next Life Path Stage: Early Career](</LifePath/EarlyCareer/Early Career.md>)
+
 ## Other Options
 ![](</LifePath/Education/List of Educations.md>)

@@ -10,3 +10,5 @@ The "world" on which a character is born has a fundamental impact on many of his
 
 ## [List of Homeworlds](</LifePath/Homeworld/List%20of%20Homeworlds.md>)
 ![](</LifePath/Homeworld/List%20of%20Homeworlds.md>)
+
+## [Next Life Path Stage: Childhood](</LifePath/Childhood/Childhood.md>)

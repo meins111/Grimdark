@@ -9,5 +9,7 @@ Whatever they were or are, you were raised in just such a fashion too. It is lik
 - Aptitude: Brutality OR Precision 
 - Profession: Athlete, Gunman, Commander, Warrior
 
+## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
+
 ## Other Options
 ![](</LifePath/Childhood/List of Childhoods.md>)

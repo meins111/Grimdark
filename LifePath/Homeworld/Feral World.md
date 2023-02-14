@@ -20,5 +20,7 @@ Your home is classified as a death world and only the most hardy or lucky surviv
 		- Sneak (Ghost)
 		- Hide (Ghost)
 
+## [Next Life Path Stage: Childhood](</LifePath/Childhood/Childhood.md>)
+
 ## Other Options
 ![](</LifePath/Homeworld/List of Homeworlds.md>)

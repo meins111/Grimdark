@@ -11,5 +11,7 @@ You were or are part of the imperial Arbitrators, or more specifically its staff
 	- Enforcer OR Observer 
 - Secondary Profession: (choose one)
 	- Enforcer, Observer, Loremaster, Ghost, Warrior, Gunman, Medic, Tinkerer, Operator, Athlete
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

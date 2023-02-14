@@ -13,5 +13,7 @@ Knowledge of the various Adeptus Terra branches, paperwork, math, statistics and
 	- Loremaster
 	- Trader OR Rationalist
 
+## [Next Life Path Stage: Early Career](</LifePath/EarlyCareer/Early Career.md>)
+
 ## Other Options
 ![](</LifePath/Education/List of Educations.md>)

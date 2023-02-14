@@ -15,6 +15,8 @@ These are the corn baskets of the Imperium, producing unbelievable amounts of fo
       - Taming (Survivalist), Tinkerer (Jury-Rig)
       - Endure (Athlete), Hammerblow (Warrior)
 
+## [Next Life Path Stage: Childhood](</LifePath/Childhood/Childhood.md>)
+
 ## Other Options
 
 ![](</LifePath/Homeworld/List of Homeworlds.md>)

@@ -17,6 +17,8 @@ Most forges are very strictly hierarchical and organized. This ranges from regul
 	  - Rites of Maintenance (Technologist),
 	  - any Tinkerer
 
+## [Next Life Path Stage: Childhood](</LifePath/Childhood/Childhood.md>)
+
 ## Other Options
 
 ![](</LifePath/Homeworld/List of Homeworlds.md>)

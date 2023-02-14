@@ -11,5 +11,7 @@ This does limit your horizon by whatever your growing-up environment was but it 
 - Group Aptitude: Instinctual OR Social OR Physical
 - Profession: Any two associated to the selected group 
 
+## [Next Life Path Stage: Early Career](</LifePath/EarlyCareer/Early Career.md>)
+
 ## Other Options
 ![](</LifePath/Education/List of Educations.md>)

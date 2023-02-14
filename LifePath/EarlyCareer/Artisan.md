@@ -12,5 +12,7 @@ This has made you not only a decent craftsman in your own right but also able to
 	- Tinkerer, Technologist, Trader, Survivalist
 - Secondary Profession: (choose one)
 	- Tinkerer, Technologist, Trader, Athlete
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

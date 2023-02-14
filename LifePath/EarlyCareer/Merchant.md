@@ -11,5 +11,7 @@ You are or were a (more or less successful) merchantman in the past. Whether you
 	- Trader
 - Secondary Profession: (choose one)
 	- Survivalist, Navigator, Spokesman, Betrayer, Loremaster 
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

@@ -7,5 +7,7 @@ You were raised in a more or less loving and intimate family of the middle or ev
 - Aptitude: Will OR Cunning 
 - Profession: Athlete, Acrobat, Believer, Loremaster, Rationalist, Tinkerer, Trader
 
+## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
+
 ## Other Options
 ![](</LifePath/Childhood/List of Childhoods.md>)

@@ -13,5 +13,7 @@ You are or were scum, leeching of imperial society in any way imaginable. Maybe 
 	- Betrayer, Enforcer 
 - Secondary Profession: (choose one)
 	- Betrayer, Enforcer, Trader, Acrobat, Athlete 
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

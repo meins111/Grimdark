@@ -20,5 +20,7 @@ One thing is sure: you got to grew up surrounded by highly embellished architect
 		- Rehabilitate (Medic)
 		- Any Spokesman
 
+## [Next Life Path Stage: Childhood](</LifePath/Childhood/Childhood.md>)
+
 ## Other Options
 ![](</LifePath/Homeworld/List of Homeworlds.md>)

@@ -8,5 +8,7 @@ Whatever the case, you have seen more places and different people in your youth 
 - Aptitude: Instincts OR Toughness
 - Profession: Spokesman OR Trader OR Survivalist OR Navigator
 
+## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
+
 ## Other Options
 ![](/LifePath/Childhood/List%20of%20Childhoods.md)

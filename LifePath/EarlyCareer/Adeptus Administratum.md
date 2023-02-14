@@ -11,5 +11,7 @@ And yet, without this monotone, impossible work done by the legion of scribes of
 	- Loremaster, Trader, Rationalist 
 - Secondary Profession: (choose one)
 	- Loremaster, Trader, Rationalist, Believer, Spokesman
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

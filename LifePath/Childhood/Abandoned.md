@@ -8,5 +8,7 @@ You grew up neglected or even outright abandoned by your parents, family and the
 - Aptitude: Brutality OR Instincts
 - Profession: Betrayer, Athlete, Acrobat, Survivalist, Observer, Ghost
 
+## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
+
 ## Other Options
 ![](</LifePath/Childhood/List of Childhoods.md>)

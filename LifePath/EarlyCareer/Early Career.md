@@ -12,3 +12,5 @@ Those range from the mundanity of a baker or miner to the honorable soldiers of 
 
 ## [List of Early Careers](</LifePath/EarlyCareer/List of Early Careers.md>)
 ![](</LifePath/EarlyCareer/List%20of%20Early%20Careers.md>)
+
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)

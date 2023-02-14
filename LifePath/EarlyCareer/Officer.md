@@ -12,5 +12,7 @@ As auch, you had been tasked with leading a small number of rank and file person
 	- Commander, Enforcer
 - Secondary Profession: (choose one)
 	- Commander, Enforcer, Rationalist, Believer, Spokesman, Warrior, Gunman, Athlete 
+## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
+
 ## Other Options
 ![](</LifePath/EarlyCareer/List of Early Careers.md>)

@@ -22,5 +22,7 @@ People from this worlds, tend to feel that they are in fact part of the larger I
 		- Any Tinkerer except Demolition
 		- Surface Navigation (Navigator)
 
+## [Next Life Path Stage: Childhood](</LifePath/Childhood/Childhood.md>)
+
 ## Other Options
 ![](</LifePath/Homeworld/List of Homeworlds.md>)
