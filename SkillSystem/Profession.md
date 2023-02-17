@@ -1,6 +1,6 @@
 #CoreSystem #Professions
 ## Overview
-Grimdark groups [Specialties](</SkillSystem/Specialties/Specialty.md>) into associated Professios. The primary use of Professions within the scope of Grimdark is to represent the fact that learning or training in one area, does provide you with some level of skill in closely related areas as well. 
+Grimdark groups [Specialties](SkillSystem/Specialty.md) into associated Professios. The primary use of Professions within the scope of Grimdark is to represent the fact that learning or training in one area, does provide you with some level of skill in closely related areas as well. 
 
 Mechanically, this is represented by the [Profession Rating](</SkillSystem/Profession%20Rating.md>) - a numerical representation of your general capabilities with everything falling within the scope of that Profession. As your character is gaining ranks in Specialties, the character does also (slightly) increase his Profession Rating, which can be used in various, creative ways as described below.
 

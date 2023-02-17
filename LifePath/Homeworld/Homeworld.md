@@ -5,8 +5,7 @@ The "world" on which a character is born has a fundamental impact on many of his
 * Three [Attribute](</CoreSystem/Attribute.md>) modifiers
   * Two positive (+3 each) 
   * One negative (-3)
-* Three [Specialty](</SkillSystem/Specialties/Specialty.md>) points
-* 1st [Aptitude](/LevelUp/Aptitudes.md>)
+* Three [Specialty](SkillSystem/Specialty.md)Aptitude](/LevelUp/Aptitudes.md>)
 
 ## [List of Homeworlds](</LifePath/Homeworld/List%20of%20Homeworlds.md>)
 ![](</LifePath/Homeworld/List%20of%20Homeworlds.md>)

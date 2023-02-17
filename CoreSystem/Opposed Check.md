@@ -5,7 +5,7 @@ Many checks in Grimdark are Opposed, pitting your Character against some kind of
 ## Opposed Check Mechanic
 An opposed Check is resolved as follows:
 
-1. Both parties choose an appropriate [Specialty](SkillSystem/Specialties/Specialty.md) (or a [Profession](SkillSystem/Professions/Profession.md) to use as a [Profession Check](SkillSystem/Professions/Profession%20Check.md Check.md>)).
+1. Both parties choose an appropriate [Specialty](SkillSystem/Specialty.md) (or a [Profession](SkillSystem/Profession.md) to use as a [Profession Check](SkillSystem/Professions/Profession%20Check.md Check.md>)).
 2. Both parties roll a [Basic Check](</CoreSystem/Basic Check.md>) and get a number of [Challenge Points (CP)](</SkillSystem/Challenge Point.md>)
 3. Whichever side gets more CP wins the opposed check
 
