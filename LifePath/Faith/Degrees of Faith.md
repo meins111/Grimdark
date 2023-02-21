@@ -1,0 +1,7 @@
+- [Zealous](/LifePath/Faith/Zealous.md)
+- [Fervent](/LifePath/Faith/Fervent.md)
+- [Faithful](/LifePath/Faith/Faithful.md)
+- [Ambivalent](/LifePath/Faith/Ambivalent.md)
+- [Deviant](/LifePath/Faith/Deviant.md)
+- [Borderline](/LifePath/Faith/Borderline.md)
+- [Heretical](/LifePath/Faith/Heretical.md)

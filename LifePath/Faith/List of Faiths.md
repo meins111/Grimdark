@@ -1,0 +1,4 @@
+- [God Emperor](</LifePath/Faith/God Emperor.md>)
+- [Omnissiah](/LifePath/Faith/Omnissiah.md)
+- [Chaos: Undivided](</LifePath/Faith/Chaos Undevided.md>)
+- [Genestealer Cult](</LifePath/Faith/Genestealer Cult.md>)
