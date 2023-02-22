@@ -1,4 +1,4 @@
-#CoreSystem #Professions
+#CoreSystem #Professions #MainPages 
 ## Overview
 Grimdark groups [Specialties](SkillSystem/Specialty.md) into associated Professios. The primary use of Professions within the scope of Grimdark is to represent the fact that learning or training in one area, does provide you with some level of skill in closely related areas as well. 
 
@@ -11,5 +11,5 @@ For players preferring reduced complexity, the [Generalist Playstyle](</SkillSys
 
 ## Professions Groups
 Professions are grouped into four groups by the most influential and most used Attributed used by that Profession. Grimdark characters creation using the [Life Path](</LifePath/Life%20Path.md>) system, will gain one [Aptitude](</CoreSystem/Aptitudes.md>) matching the name of a Profession Group, reflecting their character's leanings.
-![](</SkillSystem/Professions/List%20of%20Professions.md.md>)
+![](</SkillSystem/Professions/List%20of%20Professions.md>)
 
