@@ -1,4 +1,4 @@
-#Professions #Athlete
+#Professions #Athlete #physical_group 
 ## Overview
 General physical prowess mostly requiring raw strength and endurance are the trademarks of a good Athlete. 
 Another good way of looking at the Athlete is to consider the very origin of the word, derived from the ancient Greek competitors of the Olympic games. All the traditional disciples are covered by this Profession.
@@ -13,6 +13,14 @@ He may be physically intimidating to less strong characters even without meaning
 - [Physical Defense](</SkillSystem/Tags/Physical Defense.md>)
 - [Movement](</SkillSystem/Tags/Movement.md>)
 - [Solution](</SkillSystem/Tags/Solution.md>)
+
+## Archetypes 
+- Sportsman
+- Soldiers
+- Thugs
+- Ogryns
+- Orks
+- Space Marines
 
 ## Example Use Cases
 - Lift heavy weights or force open (or close) things, arm wrestling, crush small objects in your hand, bodily move someone ([Force](/SkillSystem/Specialties/Force.md))

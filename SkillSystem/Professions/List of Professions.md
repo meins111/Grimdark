@@ -1,9 +1,9 @@
 |Profession |Group |
 |-------| ------------ |
-|[Athlete](</SkillSystem/Professions/Athlete.md>)|Physical | 
 |[Acrobat](</SkillSystem/Professions/Acrobat.md>) |Physical |
+|[Athlete](</SkillSystem/Professions/Athlete.md>)|Physical | 
 |[Believer](</SkillSystem/Professions/Believer.md>)  |Social |
-|[Believer](</SkillSystem/Professions/Believer.md>) |Social |
+|[Betrayer](</SkillSystem/Professions/Betrayer.md>) |Social |
 |[Commander](</SkillSystem/Professions/Commander.md>) |Social |
 |[Enforcer](</SkillSystem/Professions/Enforcer.md>) |Social |
 |[Ghost](</SkillSystem/Professions/Ghost.md>) |Instinctual |

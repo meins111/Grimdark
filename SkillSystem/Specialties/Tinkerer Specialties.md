@@ -1,4 +1,4 @@
-- [Technimat](</SkillSystem/Specialties/Technomat.md>)
+- [Technomat](</SkillSystem/Specialties/Technomat.md>)
 - [Demolition](</SkillSystem/Specialties/Demolition.md>)
 - [Disable](</SkillSystem/Specialties/Disable.md>)
 - [Jury-Rig](</SkillSystem/Specialties/Jury-Rig.md>)

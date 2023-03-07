@@ -1,4 +1,4 @@
-#Professions #Believer #faith 
+#Professions #Believer #faith #social_group 
 ## Overview
 Faith and strong beliefs are a central theme in the grim-dark future and the Believer is the epitome of this. He is the one bringing [Faith](LifePath/Faith/Faith.md) to dark places - or in fact bring the dark into places where there is (or was) light.
 
@@ -11,7 +11,13 @@ Faith and strong beliefs are a central theme in the grim-dark future and the Bel
 - [Support](/CoreSystem/Tags/Support.md)
 - [Recovery](/CoreSystem/Tags/Recovery.md)
 
-
+## Archetypes 
+- Ecclesiarchy Priest
+- Crusader
+- Sister of Battle
+- Cultist
+- Street Preacher
+- Mechanicus Adept
 
 ## Example Use Cases
 - Recite scripture, litanies, tenets or axioms of ones Faith to influence others ([Preach](/SkillSystem/Specialties/Preach.md)) - works well only on the faithful of your own Faith!
