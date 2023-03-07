@@ -9,7 +9,7 @@ Each step of the way will have various options to choose from, but each of those
 
 The following general considerations apply:
 1. If you intent to play using the [Generalist Playstyle](</SkillSystem/Generalist Playstyle.md>) and you get a [Specialty](SkillSystem/Specialty.md), simply put a dot next to the associated Profession.
-2. If you gain the same [Specialty](SkillSystem/Specialty.md) from subsequent stages, you simply increase its [Specialty Rank](</SkillSystem/Specialty Ranks.ms>) by one.
+2. If you gain the same [Specialty](SkillSystem/Specialty.md) from subsequent stages, you simply increase its [Specialty Rank](</SkillSystem/Specialty Rank.md>) by one.
 3. Within one Stage, you may not select the same Specialty or Profession more than once.
 4. Make sure to note down the options you took for each stage. These are your [Origin Traits](</Traits/Origin Trait.md>), which can be invoked during play to gain modifiers.
 
