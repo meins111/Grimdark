@@ -1,27 +1,26 @@
 #MainPages 
 ## Roadmap
-This is the extend of things I intend to have in the book when it is done:
+This is the extend of things I intend to have in the book when it is done and a summary of stuff I have written down (✓) and reviewed and playtested (✓✓).
 
 ## The Core Mechanic 
-- Attributes 
-    + Attribute Modifiers 
-- Aptitudes. 
-- Skill Check / Trinary Result ✓
-- Fate ✓
+- [Attributes](/CoreSystem/Attribute.md) ✓
+- [Aptitudes](/LevelUp/Aptitudes.md) ✓
+- [Basic Check](/CoreSystem/Basic%20Check.md) ✓
+- [Trinary Outcome](/CoreSystem/Trinary%20Outcome.md) ✓
+- [Fate](/CoreSystem/Fate.md) ✓
 - Sub-System: Plot Armor
 
 ## Profession and Specialties
 - Definition ✓
-- Generalist & Specialist Path ✓
-- Professions ✓
-    - The Check ✓
-    - Profession Rating ✓
+- [Generalist & Specialist Playstyle](/CoreSystem/Generalist%20vs%20Specialist%20Playstyle.md) ✓
+- [Professions](/SkillSystem/Profession.md) ✓
+    - The [Profession Check](/SkillSystem/Profession%20Check.md) ✓
+    - [Profession Rating](/SkillSystem/Profession%20Rating.md) ✓
     - Profession Groups ✓
 - Specialties
-    - The Check ✓
-    - Levels and Modifiers 
+    - [Ranks](/SkillSystem/Specialty%20Rank.md) ✓
     - Common Usage Tags 
-- The Professions ✓
+- [List of Professions](/SkillSystem/Professions/List%20of%20Professions.md) ✓
     - Acrobat ✓
     - Athlete ✓
     - Believer ✓
@@ -42,17 +41,20 @@ This is the extend of things I intend to have in the book when it is done:
     - Tinkerer ✓
     - Trader ✓
     - Warrior ✓
-- The Specialities:
+- [List of Specialties](/SkillSystem/Specialties/List%20of%20Specialties.md):
     - (lots)
 
 ## Sub-System: Lifepath Character Ceation 
-- The Lifepath creation 
-- Step 1: Birthright 
-- Step 2: Homeworld 
-- Step 3: Childhood 
-- Step 4: Education 
-- Step 5: Combat Experience 
-- Step 6: Early Career 
+- The [Life Path](/LifePath/Life%20Path.md) creation system ✓
+- Step 1: [Birthright](/LifePath/Birthright/Birthright.md) ✓
+- Step 2: [Homeworld](/LifePath/Homeworld/Homeworld.md) ✓
+- Step 3: [Childhood](/LifePath/Childhood/Childhood.md) ✓
+- Step 4: [Education](/LifePath/Education/Education.md) ✓
+- Step 5: [Combat Training](/LifePath/CombatTraining/Combat%20Training.md) ✓
+- Step 6: [Early Career](/LifePath/EarlyCareer/Early%20Career.md) ✓
+- Step 7: [Faith](/LifePath/Faith/Faith.md) ✓
+- Lifepath Events
+- Extended Life-Paths for advanced Characters
 
 ## Character Advancement
 - XP
@@ -101,6 +103,11 @@ This is the extend of things I intend to have in the book when it is done:
 - Drawing on the Warp
 - Psychic Phenomena and Warp Anomalies
 - Psychic Powers
+
+## Sub-System: The Power of Faith
+- Faith Powers
+- Purity and Damnation
+- Absolution & Redemption
 
 ## Sub-System: Unnatural Physiques
 - Unnatural Attributes
