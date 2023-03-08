@@ -5,10 +5,10 @@ An attribute describes the raw physical and mental capabilities of a given Chara
 ## The Attributes
 Every character in Grimdark is defined by a numeric value for each of the following Attributes:
 
-* [Brutality](CoreSystem/Attributes/Brutality.md)
-* [Precision](CoreSystem/Attributes/Precision.md)
-* [Speed](CoreSystem/Attributes/Speed.md)
-* [Toughness](CoreSystem/Attributes/Toughness.md)
-* [Instincts](CoreSystem/Attributes/Instincts.md)
-* [Cunning](CoreSystem/Attributes/Cunning.md)
-* [Will](CoreSystem/Attributes/Will.md)
+* [Brutality](/CoreSystem/Attributes/Brutality.md)
+* [Precision](/CoreSystem/Attributes/Precision.md)
+* [Speed](/CoreSystem/Attributes/Speed.md)
+* [Toughness](/CoreSystem/Attributes/Toughness.md)
+* [Instincts](/CoreSystem/Attributes/Instincts.md)
+* [Cunning](/CoreSystem/Attributes/Cunning.md)
+* [Will](/CoreSystem/Attributes/Will.md)
