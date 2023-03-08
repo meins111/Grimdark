@@ -1,6 +1,6 @@
 #Professions #Believer #faith #social_group 
 ## Overview
-Faith and strong beliefs are a central theme in the grim-dark future and the Believer is the epitome of this. He is the one bringing [Faith](LifePath/Faith/Faith.md) to dark places - or in fact bring the dark into places where there is (or was) light.
+Faith and strong beliefs are a central theme in the grim-dark future and the Believer is the epitome of this. He is the one bringing [Faith](/LifePath/Faith/Faith.md) to dark places - or in fact bring the dark into places where there is (or was) light.
 
 ## The Believer
 ... has strong beliefs, usually religious ones, that he is displaying openly. He will likely, openly wear insignia or iconography associated with his [Faith](/LifePath/Faith/Faith.md). He may be actively preaching to and trying to convert other persons. Swaying the character to a new point of view or convince them to change a set course of action is generally difficult.

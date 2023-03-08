@@ -9,7 +9,7 @@ In a galaxy where there is only war, the vast majority of people have come to ex
 * Supplementary Profession
     * 2 Specialty Ranks within 
 
-## Next Life Stage: [Faith](LifePath/Faith/Faith.md)
+## Next Life Stage: [Faith](/LifePath/Faith/Faith.md)
 
 ## [List of Combat Training](</LifePath/CombatTraining/List of Combat Trainings.md>)
 ![](</LifePath/CombatTraining/List%20of%20Combat%20Trainings.md>)
