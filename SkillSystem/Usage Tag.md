@@ -13,7 +13,7 @@ Tags also provide a grouping for Specialties or Professions which can be used to
 	- Attacks using anything from fists and chainswords to Lasguns or macrocannon batteries.
 - [Physical Defenses (PD)](/CoreSystem/Tags/Physical%20Defenses.md)
 	- Defending against Physical Attacks
-- [Mental Attack (MA)](SkillSystem/Tags/Mental%20Attack.md Attack.md>)
+- [Mental Attack (MA)](/SkillSystem/Tags/Mental%20Attack.md Attack.md>)
 	- "Attacks" using threats, charm, logic or even psychic powers aiming to influence targets to do your bidding
 - [Mental Defense (MD)](</CoreSystem/Tags/Mental Defense.md>)
 		- Defending against mental influence

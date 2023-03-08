@@ -3,7 +3,7 @@
 Deviant believers are following beliefs or practices that are noticeable different to those laid out by the majority of believers of their [Faith](/LifePath/Faith/Faith.md). They may adhere to a very different interpretation or teaching of some or even all of the core tenets. Or they may have a wildly different way of showing deference and express their Faith.
 
 ## The Deviant and Others
-Deviant believers can easily get into trouble with the more extreme elements of their Faith, notably with [Zealots](LifePath/Faith/Zealous.md) and may find it hard to tolerate or at least properly participate in baseline services or celebrations.
+Deviant believers can easily get into trouble with the more extreme elements of their Faith, notably with [Zealots](/LifePath/Faith/Zealous.md) and may find it hard to tolerate or at least properly participate in baseline services or celebrations.
 
 
 ## Advantages and Disadvantages

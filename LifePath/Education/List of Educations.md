@@ -1,7 +1,7 @@
 * [Scholam Progenium](</LifePath/Education/Scholam Progenium.md>)
 * [Hypnomachined](</LifePath/Education/Hypnomachined.md>)
 * [Ecclesiarchy Scholam](</LifePath/Education/Ecclesiarchy Scholam.md>)
-* [Tutored](LifePath/Education/Tutored.md)
+* [Tutored](/LifePath/Education/Tutored.md)
 * [Self-taught](</LifePath/Education/Self Taught.md>)
 * [Oral Traditions](</LifePath/Education/Oral Traditions.md>)
 * [Administratum College](</LifePath/Education/Administratum College.md>)
