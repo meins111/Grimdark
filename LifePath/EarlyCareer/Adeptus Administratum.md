@@ -7,9 +7,9 @@ And yet, without this monotone, impossible work done by the legion of scribes of
 	- +3 Precision 
 	- +3 Speed OR Will
 	- -3 Instincts, Will, Toughness OR Brutality 
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 4 Ranks)_
 	- Loremaster, Trader, Rationalist 
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- Loremaster, Trader, Rationalist, Believer, Spokesman
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
 

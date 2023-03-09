@@ -9,9 +9,9 @@ How did you even manage to life auch a sheltered life that you did not come into
 
 ## Character Creation Modifiers
 - Attribute: +3 to Cunning OR Will OR Speed
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 3 Ranks)_
 	- any excluding: Warrior, Gunman, Athlete, Acrobat 
-- Supplementary Profession: (choose one)
-	- any excluding: Warrior, Gunman, Athlete, Acrobat 
+- Supplementary Profession: _(choose one, gain 2 Ranks)_
+	- any excluding: Warrior, Gunman, Athlete, Acrobat and different from the choice made above
 ## Other Options
 ![](</LifePath/CombatTraining/List of Combat Trainings.md>)

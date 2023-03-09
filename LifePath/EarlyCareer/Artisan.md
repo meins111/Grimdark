@@ -8,9 +8,9 @@ This has made you not only a decent craftsman in your own right but also able to
 	- +3 Precision 
 	- +3 Cunning OR Will OR Toughness 
 	- -3 Brutality OR Speed 
-- Primary Profession: (choose one)
+- Primary Profession: (choose one_(choose one, gain 4 Ranks)_
 	- Tinkerer, Technologist, Trader, Survivalist
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- Tinkerer, Technologist, Trader, Athlete
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
 

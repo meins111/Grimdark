@@ -8,7 +8,12 @@ This has left a hard, uncompromising streak in your character that may be very m
 ## Character Creation Modifiers
 - Attribute: +3 Brutality or Toughness 
 - Aptitude: Brutality
-- Professio: Athlete, Ghost, Gunman, Survivalist, Warrior
+- Profession: _(choose one, gain 2 Ranks)_ 
+	- Athlete, 
+	- Ghost, 
+	- Gunman, 
+	- Survivalist, 
+	- Warrior
 
 ## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
 

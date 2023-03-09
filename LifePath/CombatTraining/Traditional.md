@@ -5,9 +5,9 @@ Maybe you and your people are living on a feral or feudal world where such fight
 
 ## Character Creation Modifiers
 - Attribute: +3 to Speed OR Precision 
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 3 Ranks)_
 	- Warrior 
-- Supplementary Profession: (choose one)
+- Supplementary Profession: _(choose one, gain 2 Ranks)_
 	- Acrobat, Believer, Athlete 
 ## Other Options
 ![](</LifePath/CombatTraining/List of Combat Trainings.md>)

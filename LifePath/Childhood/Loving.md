@@ -5,7 +5,14 @@ You were raised in a more or less loving and intimate family of the middle or ev
 ## Character Creation Modifiers
 - Attribute: +3 Will OR Cunning
 - Aptitude: Will OR Cunning 
-- Profession: Athlete, Acrobat, Believer, Loremaster, Rationalist, Tinkerer, Trader
+- Profession: _(choose one, gain 2 Ranks)_
+	- Athlete, 
+	- Acrobat, 
+	- Believer, 
+	- Loremaster, 
+	- Rationalist, 
+	- Tinkerer, 
+	- Trader
 
 ## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
 

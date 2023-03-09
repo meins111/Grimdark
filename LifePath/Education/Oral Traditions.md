@@ -11,7 +11,7 @@ These stories, myths, parables and instructions naturally contain some (at least
 	- +3 Precision OR Will
 	- -3 Cunning
 - Group Aptitude: Instinctual
-- Professions:
+- Professions: _(4 Ranks to spend in between, either 3-1 or 2-2)_
 	- Believer OR Survivalist 
 	- Observer OR Acrobat OR Ghost
 

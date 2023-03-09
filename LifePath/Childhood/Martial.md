@@ -7,7 +7,11 @@ Whatever they were or are, you were raised in just such a fashion too. It is lik
 ## Character Creation Modifiers
 - Attribute: +3 Brutality OR Precision
 - Aptitude: Brutality OR Precision 
-- Profession: Athlete, Gunman, Commander, Warrior
+- Profession: _(choose one, gain 2 Ranks)_
+	- Athlete,
+	- Gunman, 
+	- Commander, 
+	- Warrior
 
 ## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
 

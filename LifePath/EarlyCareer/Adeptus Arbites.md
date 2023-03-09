@@ -7,9 +7,9 @@ You were or are part of the imperial Arbitrators, or more specifically its staff
 	- +3 Brutality OR Instincts 
 	- +3 Cunning OR Speed OR Will OR Precision 
 	- -3 Precision OR Brutality 
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 4 Ranks)_
 	- Enforcer OR Observer 
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- Enforcer, Observer, Loremaster, Ghost, Warrior, Gunman, Medic, Tinkerer, Operator, Athlete
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
 

@@ -4,9 +4,9 @@ You participated in a prolonged, bloody gang war, either as a ganger, local mili
 
 ## Character Creation Modifiers
 - Attribute: +3 to Brutality OR Speed
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 3 Ranks)_
 	- Gunman OR Operator 
-- Supplementary Profession: (choose one)
+- Supplementary Profession: _(choose one, gain 2 Ranks)_
 	- Gunman, Operator, Tinkerer, Enforcer
 ## Other Options
 ![](</LifePath/CombatTraining/List of Combat Trainings.md>)

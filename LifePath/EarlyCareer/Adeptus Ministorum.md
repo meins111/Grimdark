@@ -7,9 +7,9 @@ You are (or at least were) an ordained member of the vast priesthood of the Eccl
 	- +3 Brutality OR Instincts 
 	- +3 Will
 	- -3 Precision OR Speed OR Cunning 
-- Primary Profession: (choose one)
+- Primary Profession: _(gain 4 Ranks)_
 	- Believer
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- Spokesman, Enforcer, Observer, Loremaster, Trader
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
 

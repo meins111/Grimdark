@@ -9,9 +9,9 @@ Whatever the case, keep in mind that at this stage you certainly are not a prope
 	- +3 Brutality OR Precision OR Toughness 
 	- +3 Cunning OR Speed OR Instincts
 	- -3 Cunning OR Will OR Brutality 
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 4 Ranks)_
 	- Athlete, Acrobat, Ghost 
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- Warrior, Gunman, Observer, Survivalist, Tinkerer, Betrayer 
 
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)

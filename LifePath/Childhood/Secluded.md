@@ -7,7 +7,11 @@ Whatever the case, your early years were spent in a very tiny bubble and you had
 ## Character Creation Modifiers
 - Attribute: +3 Precision OR Speed OR Cunning
 - Aptitude: Precision OR Cunning OR Speed
-- Profession: Loremaster, Rationalist, Tinkerer, Believer
+- Profession: _(choose one, gain 2 Ranks)_
+	- Loremaster, 
+	- Rationalist, 
+	- Tinkerer, 
+	- Believer
 
 ## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
 

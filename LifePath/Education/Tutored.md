@@ -9,7 +9,7 @@ The nature of the Tutor directly influences the passed-on knowledge.
 	- +3 Speed OR Precision
 	- -3 Will OR Brutality
 - Group Aptitude: any
-- Profession: any two associated with the selected group
+- Profession: any two associated with the selected group _(4 Ranks to spend in between, either 3-1 or 2-2)_
 
 ## [Next Life Path Stage: Early Career](</LifePath/EarlyCareer/Early Career.md>)
 
