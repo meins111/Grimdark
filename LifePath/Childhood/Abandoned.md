@@ -6,7 +6,13 @@ You grew up neglected or even outright abandoned by your parents, family and the
 ## Character Creation Modifiers
 - Attribute: +3 Brutality OR +3 Instincts
 - Aptitude: Brutality OR Instincts
-- Profession: Betrayer, Athlete, Acrobat, Survivalist, Observer, Ghost
+- Profession: _(choose one, gain 2 Ranks)_
+	- Betrayer
+	- Athlete
+	- Acrobat
+	- Survivalist
+	- Observer
+	- Ghost
 
 ## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
 

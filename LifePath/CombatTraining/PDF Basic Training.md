@@ -4,9 +4,9 @@ You, as countless billion other imperial citizens, have been drafted an put thro
 
 ## Character Creation Modifiers
 - Attribute: +3 to Brutality OR Toughness 
-- Primary Profession: (choose one)
+- Primary Profession: _(gain 3 Ranks)_
 	- Gunman 
-- Supplementary Profession: (choose one)
+- Supplementary Profession: _(choose one, gain 2 Ranks)_
 	- Athlete, Warrior, Commander, Medic
 ## Other Options
 ![](</LifePath/CombatTraining/List of Combat Trainings.md>)

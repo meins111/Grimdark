@@ -6,7 +6,15 @@ You were primarily raised by a close-knit, local community. Whether you are an o
 ## Character Creation Modifiers
 - Attribute: +3 Will OR Precision
 - Aptitude: Will OR Precision
-- Profession: Trader, Tinkerer, Survivalist, Acrobat, Athlete, Betrayer, Believer, Warrior
+- Profession: _(choose one, gain 2 Ranks)_
+	- Trader
+	- Tinkerer
+	- Survivalist
+	- Acrobat
+	- Athlete
+	- Betrayer
+	- Believer
+	- Warrior
 
 ## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
 

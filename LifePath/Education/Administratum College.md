@@ -9,7 +9,7 @@ Knowledge of the various Adeptus Terra branches, paperwork, math, statistics and
 	- +3 Precision OR Speed
 	- -3 Will OR Brutality 
 - Group Aptitude: Mental
-- Professions:
+- Professions: _(4 Ranks to spend in between, either 3-1 or 2-2)_
 	- Loremaster
 	- Trader OR Rationalist
 

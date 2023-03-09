@@ -8,9 +8,9 @@ The martians price knowledge and technology above all else - often to the detrim
 	- +3 Cunning OR Instincts 
 	- +3 Will OR Precision OR Speed 
 	- -3 Brutality OR Instincts OR Will 
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 4 Ranks)_
 	- Technologist, Rationalist, Loremaster,  Operator
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- Technologist, Rationalist, Loremaster, Operator, Tinkerer, Believer
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
 

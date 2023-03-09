@@ -10,7 +10,7 @@ Ecclesiarchy scholams are often strict and sometimes even brutal, especially to 
 	- +3 to Brutality OR Toughness 
 	- -3 Cunning
 - Group Aptitude: Social
-- Professions:
+- Professions: _(4 Ranks to spend in between, either 3-1 or 2-2)_
 	- Believer
 	- Loremaster OR Athlete
 

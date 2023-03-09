@@ -8,9 +8,9 @@ At most your rank is that if a Sergeant at this point of your career.
 	- +3 Brutality OR Precision 
 	- +3 Instincts OR Toughness 
 	- -3 Will OR Cunning 
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 4 Ranks)_
 	- Gunman, Warrior
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- Gunman, Warrior, Athlete, Medic, Acrobat, Commander 
 
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)

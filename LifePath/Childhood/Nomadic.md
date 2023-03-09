@@ -6,7 +6,11 @@ Whatever the case, you have seen more places and different people in your youth 
 ## Character Creation Modifiers
 - Attribute: +3 Instincts OR Toughness
 - Aptitude: Instincts OR Toughness
-- Profession: Spokesman OR Trader OR Survivalist OR Navigator
+- Profession: _(choose one, gain 2 Ranks)_
+	- Spokesman
+	- Trader
+	- Survivalist
+	- Navigator
 
 ## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
 

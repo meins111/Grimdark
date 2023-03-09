@@ -9,7 +9,7 @@ And yet this method was never intended to replace actual learning and understand
 	- +3 Will or Precious
 	- -3 Instincts
 - Group Aptitude: Mental OR Physical 
-- Professions:
+- Professions: _(4 Ranks to spend in between, either 3-1 or 2-2)_
 	- Loremaster
 	- Rationalist OR Believer OR Technologist
 

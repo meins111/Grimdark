@@ -7,9 +7,9 @@ You spent some time working in a thankless menial job like the vast majority of 
 	- +3 Toughness 
 	- +3 Brutality OR Precision OR Speed 
 	- -3 Instincts OR Will 
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 4 Ranks)_
 	- Athlete, Spokesman, Tinkerer
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- Athlete, Spokesman, Tinkerer, Trader
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
 

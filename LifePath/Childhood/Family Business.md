@@ -5,7 +5,7 @@ You were born into a family with a sophisticated business. This can be anything 
 ## Character Creation Modifiers
 - Attribute: Precision OR Cunning
 - Aptitude: Precision 
-- Profession: choose one and 2 associated Specialties
+- Profession: _(choose one, gain 2 Ranks)_
 	- Trader
 	- Operator
 	- Tinkerer

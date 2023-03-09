@@ -6,8 +6,9 @@ You were born into a noble family. Etiquette, controlled demeanor and careful sc
 ## Character Creation Modifiers
 - Attribute: +3 Precision OR Will
 - Aptitude: Precision OR Will
-- Profession: Spokesman OR Betrayer
-	- 2 associated Specialties 
+- Profession: _(choose one, gain 2 Ranks)_
+	- Spokesman
+	- Betrayer
 
 ## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
 

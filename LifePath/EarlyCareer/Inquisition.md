@@ -8,9 +8,9 @@ You may have been a simple regular informant or data analyst or a basic member o
 	- +3 Precision OR Cunning OR Instincts 
 	- +3 Brutality OR Will 
 	- -3 Speed OR Cunning 
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 4 Ranks)_
 	- Loremaster, Observer, Enforcer, Betrayer, Spokesman, Gunman, Warrior, Acrobat 
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- any
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
 

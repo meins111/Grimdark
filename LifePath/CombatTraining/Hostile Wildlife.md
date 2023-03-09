@@ -4,9 +4,9 @@ You've been to a place with lethal predators. You have learnt your lessions from
 
 ## Character Creation Modifiers
 - Attribute: +3 to Brutality OR Speed 
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 3 Ranks)_
 	- Warrior
-- Supplementary Profession: (choose one)
+- Supplementary Profession: _(choose one, gain 2 Ranks)_
 	- Survivalist, Ghost, Observer, Athlete
 ## Other Options
 ![](</LifePath/CombatTraining/List of Combat Trainings.md>)

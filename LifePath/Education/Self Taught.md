@@ -9,7 +9,7 @@ This does limit your horizon by whatever your growing-up environment was but it 
 	- +3 Speed OR Brutality OR Toughness
 	- -3 Cunning OR Precision
 - Group Aptitude: Instinctual OR Social OR Physical
-- Profession: Any two associated to the selected group 
+- Profession: Any two associated to the selected group _(4 Ranks to spend in between, either 3-1 or 2-2)_
 
 ## [Next Life Path Stage: Early Career](</LifePath/EarlyCareer/Early Career.md>)
 

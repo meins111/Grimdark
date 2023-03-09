@@ -8,9 +8,9 @@ This is a mostly solitary career, spent far removed from the teeming mass of civ
 	- +3 Instincts
 	- +3 Brutality OR Precision 
 	- -3 Toughness OR Will OR Cunning 
-- Primary Profession: (choose one)
+- Primary Profession: _(choose one, gain 4 Ranks)_
 	- Warrior, Gunman, Survivalist, Ghost
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- Warrior, Gunman, Observer, Survivalist, Ghost, Athlete
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
 

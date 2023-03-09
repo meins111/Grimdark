@@ -8,9 +8,9 @@ Whatever the case, you have learned much of how to _use_ technology if not _how_
 	- +3 Speed
 	- +3 Precision OR Instincts 
 	- -3 Cunning, Toughness 
-- Primary Profession: (choose one)
+- Primary Profession: _(gain 4 Ranks)_
 	- Operator
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- Tinkerer, Technologist, Trader 
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
 

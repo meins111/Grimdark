@@ -6,7 +6,7 @@ Whatever the circumstances: life and work was hard and unrelenting.
 ## Character Creation Modifiers
 - Attribute: +3 Toughness OR Will 
 - Aptitude: Toughness OR Will 
-- Profession: Athlete
+- Profession: Athlete _(gain 2 Ranks)_
 
 ## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
 

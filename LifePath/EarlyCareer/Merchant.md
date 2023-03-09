@@ -7,9 +7,9 @@ You are or were a (more or less successful) merchantman in the past. Whether you
 	- +3 Cunning OR Will
 	- +3 Spees OR Instincts 
 	- -3 Toughness OR Brutality 
-- Primary Profession: (choose one)
+- Primary Profession: _(gain 4 Ranks)_
 	- Trader
-- Secondary Profession: (choose one)
+- Secondary Profession: _(choose one, gain 3 Ranks)_
 	- Survivalist, Navigator, Spokesman, Betrayer, Loremaster 
 ## [Next Life Path Stage: Combat Training](</LifePath/CombatTraining/Combat Training.md>)
 
