@@ -1,4 +1,4 @@
-- [Faith](</SkillSystem/Specialties/Faith.md>)
-- [Preach](</SkillSystem/Specialties/Preach.md>)
-- [Meditate](</SkillSystem/Specialties/Meditate.md>)
-- [Sanctify](</SkillSystem/Specialties/Sanctify.md>)
+- [Faith](</SkillSystem/Specialties/Faith.md>) (W+B)
+- [Preach](</SkillSystem/Specialties/Preach.md>) (W+B)
+- [Meditate](</SkillSystem/Specialties/Meditate.md>) (W+I)
+- [Sanctify](</SkillSystem/Specialties/Sanctify.md>) (W+P)

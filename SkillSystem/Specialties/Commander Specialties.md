@@ -1,4 +1,4 @@
-- [Tactical Insight](</SkillSystem/Specialties/Tactical Insight.md>)
-- [Pull Rank](</SkillSystem/Specialties/Pull Rank.md>)
-- [Rally](</SkillSystem/Specialties/Rally.md>)
-- [Loyalty](</SkillSystem/Specialties/Loyalty.md>)
+- [Tactical Insight](</SkillSystem/Specialties/Tactical Insight.md>) (I+C)
+- [Pull Rank](</SkillSystem/Specialties/Pull Rank.md>) (B+P)
+- [Rally](</SkillSystem/Specialties/Rally.md>) (B+W)
+- [Loyalty](</SkillSystem/Specialties/Loyalty.md>) (C+W)
