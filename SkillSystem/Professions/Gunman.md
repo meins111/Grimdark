@@ -10,6 +10,13 @@ The ability to properly handle all kinds of firearms and general ranged weaponry
 - [Support](/SkillSystem/Tags/Support.md)
 - [Solution](/SkillSystem/Tags/Solution.md)
 
+## Main Attributes
+- Precision 
+- Brutality
+- Cunning
+- Instincts
+- Speed
+
 ## Archetypes 
 - Soldiers
 - Mercenaries

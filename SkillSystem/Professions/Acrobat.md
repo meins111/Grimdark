@@ -10,6 +10,10 @@ Balance and careful, precise yet fast movement is the name of the game for the A
 - [Movement](</CoreSystem/Tags/Movement.md>)
 - [Solution](</CoreSystem/Tags/Solution.md>)
 
+## Main Attributes
+- Precision 
+- Speed
+
 ## Archetypes 
 - Assassin
 - Eldar

@@ -11,6 +11,11 @@ Clear thought, reasoning capabilities and a highly capable mind are the trademar
 - [Physical Attack](/SkillSystem/Tags/Physical%20Attack.md)
 - [Mental Defense](/SkillSystem/Tags/Mental%20Defense.md)
 
+## Main Attributes
+- Cunning
+- Will
+- Instincts
+
 ## Archetypes 
 - Tech Priests
 - Researcher

@@ -6,11 +6,14 @@ The marvel of Technology are beyond the grasp of the vast majority of humanity. 
 ... may feel such a deep connection to technology, that he surrounds himself with it permanently - in the shape of mechanical augmentations and a flurry of gadgets, some hardwired to their body some only a swift grasp away.
 Many a Technologist may look down at primitive technology or those less versed in the use and maintenance of that which he venerates.
 
-
 ## [Usage Tags](/SkillSystem/Usage%20Tag.md)
 - [Recovery](/SkillSystem/Tags/Recovery.md)
 - [Support](/SkillSystem/Tags/Support.md)
 - [Solution](/SkillSystem/Tags/Solution.md)
+
+## Main Attributes
+- Precision 
+- Cunning
 
 ## Archetypes 
 - Tech Priests

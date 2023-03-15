@@ -9,6 +9,10 @@ Staying undetected or at least unremarked is a form of art and has all manners o
 - [Movement](/SkillSystem/Tags/Movement.md)
 - [Solution](/SkillSystem/Tags/Solution.md)
 
+## Main Attributes
+- Precision 
+- Instincts
+
 ## Archetypes 
 - Scouts
 - Assassin

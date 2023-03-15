@@ -12,6 +12,11 @@ The operation of heavy or delicate machinery and vehicles in particular is a tas
 - [Physical Defense](/SkillSystem/Tags/Physical%20Defense.md)
 - [Support](/SkillSystem/Tags/Support.md)
 
+## Main Attributes
+- Precision 
+- Cunning
+- Instincts
+
 ## Archetypes 
 - Ace pilot
 - Void Ship Command Crew

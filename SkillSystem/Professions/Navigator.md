@@ -10,6 +10,11 @@ And then there are the Navis Nobilitae, the mutants, able to perceive the warp w
 ## [Usage Tags](/SkillSystem/Usage%20Tag.md)
 - [Solution](/SkillSystem/Tags/Solution.md)
 
+## Main Attributes
+- Precision 
+- Instincts
+- Cunning
+
 ## Archetypes 
 - Scouts
 - Hunter

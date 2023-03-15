@@ -10,6 +10,10 @@ Lacking thorough understanding of technology did never hinder people from using 
 - [Recovery](/SkillSystem/Tags/Recovery.md)
 - [Physical Attack](/SkillSystem/Tags/Physical%20Attack.md)
 
+## Main Attributes
+- Precision
+- Instincts
+
 ## Archetypes 
 - "The Fixer"
 - Enginarium Crew Rating

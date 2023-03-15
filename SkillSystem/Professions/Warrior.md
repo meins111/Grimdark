@@ -10,6 +10,12 @@ The primitive-advanced art of stabbing, slicing, hammering, bashing or bisecting
 - [Physical Defense](/SkillSystem/Tags/Physical%20Defense.md)
 - [Movement](/SkillSystem/Tags/Movement.md)
 
+## Main Attributes
+- Precision 
+- Brutality
+- Speed
+- Toughness 
+
 ## Archetypes 
 - Feudal Knight
 - Space Marines
@@ -20,7 +26,7 @@ The primitive-advanced art of stabbing, slicing, hammering, bashing or bisecting
 ## Example Use Cases
 - Hit a target with all the power you can manage in a single, highly powerful [Hammerblow](/SkillSystem/Specialties/Hammerblow.md) - works best with heavy weapons
 - Hit multiple close-by targets with a wild swing or keep targets from swarming you by sweeping motions ([Cleave](/SkillSystem/Specialties/Cleave.md))
-- Clever movement or surprising tactic (often including ones surrounding) to outmaneuver or outhinj an opponent has won many an otherwise uneven fight and if not a quick withdrawal might save the day! ([Combat Maneuver](/SkillSystem/Specialties/Combat%20Maneuver.md))
+- Clever movement or surprising tactic (often including ones surrounding) to outmaneuver or outhink an opponent has won many an otherwise uneven fight and if not a quick withdrawal might save the day! ([Combat Maneuver](/SkillSystem/Specialties/Combat%20Maneuver.md))
 - [Fencing](/SkillSystem/Specialties/Fencing.md) is the art of dueling with careful offensive and watchful defense using parries and ripostes - difficult against multiple foes
 -  Overwhelming an enemy with a rapid series of attacks is a proven if exhausting tactic of many advanced warriors favouring light and fast weaponry and speed over strength ([Lightning Strike](/SkillSystem/Specialties/Lightning%20Strike.md))
 - Aiming for a specific body part, weak point or other can yield highly effective if difficult to get right results ([Lethal Strike](/SkillSystem/Specialties/Lethal%20Strike.md))

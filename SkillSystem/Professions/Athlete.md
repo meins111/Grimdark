@@ -13,6 +13,11 @@ He may be physically intimidating to less strong characters even without meaning
 - [Physical Defense](</SkillSystem/Tags/Physical Defense.md>)
 - [Movement](</SkillSystem/Tags/Movement.md>)
 - [Solution](</SkillSystem/Tags/Solution.md>)
+- 
+## Main Attributes
+- Brutality 
+- Toughness 
+- Speed
 
 ## Archetypes 
 - Sportsman

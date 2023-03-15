@@ -10,6 +10,11 @@ Trading is nearly as old as humanity and predates what is considered civilizatio
 - [Support](/SkillSystem/Tags/Support.md)
 - [Solution](/SkillSystem/Tags/Solution.md)
 
+## Main Attributes
+- Precision 
+- Instincts
+- Cunning
+
 ## Archetypes 
 - Rogue Trader
 - Merchants

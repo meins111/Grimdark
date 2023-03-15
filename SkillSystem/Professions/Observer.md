@@ -12,6 +12,11 @@ Noticing the tiny details that give away a lie, ambush or hidden secret is the p
 - [Solution](/SkillSystem/Tags/Solution.md)
 - [Physical Defense](/SkillSystem/Tags/Physical%20Defense.md)
 
+## Main Attributes
+- Precision 
+- Instincts
+- Cunning
+
 ## Archetypes 
 - Interrogator
 - Negotiator

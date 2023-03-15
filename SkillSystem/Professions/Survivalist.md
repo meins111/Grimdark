@@ -10,6 +10,10 @@ The art of survival with but your bare hands, simple tools and your wits is a hi
 - [Physical Defense](/SkillSystem/Tags/Physical%20Defense.md)
 - [Support](/SkillSystem/Tags/Support.md)
 
+## Main Attributes
+- Instincts
+- Precision
+
 ## Archetypes 
 - Barbarian
 - Hunters

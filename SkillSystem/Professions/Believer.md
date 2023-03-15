@@ -11,6 +11,10 @@ Faith and strong beliefs are a central theme in the grim-dark future and the Bel
 - [Support](/CoreSystem/Tags/Support.md)
 - [Recovery](/CoreSystem/Tags/Recovery.md)
 
+## Main Attributes
+- Will
+- Brutality 
+
 ## Archetypes 
 - Ecclesiarchy Priest
 - Crusader

@@ -9,6 +9,10 @@ Knowledge is a tool of considerable power if used well. Knowing what to say and 
 - [Solution](/SkillSystem/Tags/Solution.md)
 - [Support](/SkillSystem/Tags/Support.md)
 
+## Main Attributes
+- Cunning
+- Instincts
+
 ## Archetypes 
 - Savants 
 - Eldar

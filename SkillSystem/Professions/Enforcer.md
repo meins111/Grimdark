@@ -11,6 +11,12 @@ Brutally enforcing your will on others and punish all who stand against you, you
 - [Mental Defense](/CoreSystem/Tags/Mental%20Defense.md)
 - [Physical Attack](/SkillSystem/Tags/Physical%20Attack.md)
 
+## Main Attributes
+- Brutality
+- Will
+- Instincts
+- Cunning
+
 ## Archetypes 
 - Thugs
 - Law Enforcements

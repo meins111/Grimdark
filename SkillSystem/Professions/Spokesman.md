@@ -10,6 +10,11 @@ The art of smooth talking is not yet forgotten in the grimdark future, and still
 - [Solution](/SkillSystem/Tags/Solution.md)
 - [Distract](/SkillSystem/Specialties/Distract..d)
 
+## Main Attributes
+- Instincts
+- Cunning
+- Brutality 
+
 ## Archetypes 
 - Diplomats
 - "The Face"

@@ -10,6 +10,11 @@ Treating (physical) wounds and ailments is the primary concern of medics through
 - [Support](/SkillSystem/Tags/Support.md)
 - [Solution](/SkillSystem/Tags/Solution.md)
 
+## Main Attributes
+- Precision 
+- Cunning
+- Instincts
+
 ## Archetypes 
 - Apothecary
 - Combat Medic

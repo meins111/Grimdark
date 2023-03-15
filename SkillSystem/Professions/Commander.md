@@ -11,6 +11,10 @@ Leading others into (and hopefully back out of) danger is a hard yet utterly nec
 - [Mental Attack](/SkillSystem/Tags/Mental%20Attack.md)
 - [Mental Defense](/CoreSystem/Tags/Mental%20Defense.md)
 
+## Main Attributes
+- Brutality
+- Will
+
 ## Archetypes 
 - Sergeant
 - Officers

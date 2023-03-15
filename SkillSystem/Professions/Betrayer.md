@@ -10,6 +10,10 @@ Of course it is far from easy to see a Betrayer for who he really is through the
 - [Mental Attack](/SkillSystem/Tags/Mental%20Attack.md)
 - [Mental Defense](/CoreSystem/Tags/Mental%20Defense.md)
 - [Solution](/SkillSystem/Tags/Solution.md)
+## Main Attributes
+- Precision 
+- Cunning
+- Instincts
 
 ## Archetypes 
 - Criminals
