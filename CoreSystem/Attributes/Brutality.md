@@ -7,6 +7,7 @@ A measurement of the amount of sheer, single-minded Brutality the character is a
 * Use brute force to break open doors, locks, strangleholds or limbs
 * Terrify or Torture people to do your bidding
 * Control fully-automated gunfire
+* Hold a powerful, driving speech
 
 ## Archetypes
 * Commissar
