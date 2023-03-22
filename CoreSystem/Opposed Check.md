@@ -20,7 +20,7 @@ An opposed Check is resolved as follows:
 
 
 ## Determining the Scale of Victory
-Typically the scale of the success is important to determine the effects and roleplay implications. This is done by determining the total number of [Victory Points](</SkillSystem/Victory Points.md>) the winner achieved as follows:
+Typically the scale of the success is important to determine the effects and roleplay implications. This is done by determining the total number of [Victory Points](</CoreSystem/Victory Points.md>) the winner achieved as follows:
 
 1. Determine Excess CP of the check. (Simply subtract the CP of the loosing party from your own)
 2. Add any VP modifiers on top
