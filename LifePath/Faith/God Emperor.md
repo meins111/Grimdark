@@ -10,6 +10,7 @@ The Imperial Creed, spread and maintained with an iron fist by the Ecclesiarchy,
 - Specialty: Imperium of Man (Loremaster)
 
 ## Degrees of Faith
+![Degrees of Faith](/LifePath/Faith/Degrees%20of%20Faith.md)
 
 ## Other Options
 ![](</LifePath/Faith/List of Faiths.md>)

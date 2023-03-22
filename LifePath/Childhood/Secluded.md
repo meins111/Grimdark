@@ -11,7 +11,9 @@ Whatever the case, your early years were spent in a very tiny bubble and you had
 	- Loremaster, 
 	- Rationalist, 
 	- Tinkerer, 
-	- Believer
+	- Believer,
+	- Survivalist,
+	- Ghost
 
 ## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
 

@@ -5,7 +5,7 @@ Born amidst billion upon billion of people, hivers make up the vast majority of 
 ## Character Creation Modifiers
 * **Attributes**: 
   * -3 to: Will OR Cunning OR Instincts
-  * +3 to any two of: Brutality, Speed, Finesse, Toughness
+  * +3 to any two of: Brutality, Speed, Precision, Toughness
 * **Specialties**: (3)
   * Imperium of Man (Loremaster) OR Shadow Organizations (Loremaster) OR Enclosed (Navigator)
   * Selfishness(Betrayer) OR Endure(Athlete) OR Scrutiny(Observer)

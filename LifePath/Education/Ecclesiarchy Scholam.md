@@ -12,7 +12,7 @@ Ecclesiarchy scholams are often strict and sometimes even brutal, especially to 
 - Group Aptitude: Social
 - Professions: _(4 Ranks to spend in between, either 3-1 or 2-2)_
 	- Believer
-	- Loremaster OR Athlete
+	- Loremaster OR Athlete OR Medic
 
 ## [Next Life Path Stage: Early Career](</LifePath/EarlyCareer/Early Career.md>)
 
