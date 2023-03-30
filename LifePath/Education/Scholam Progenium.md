@@ -11,7 +11,7 @@ Whatever your origin, once inside the Scholam every pupil is treated the same ha
 	- -3 Instincts OR Cunning
 - Group Aptitude: Physical OR Social
 - Professions: _(4 Ranks to spend in between, either 3-1 or 2-2)_
-	- any two of: Believer, Commander, Warrior, Gunman, Athlete, Tinkerer, Enforcer
+	- any two of: Believer, Commander, Warrior, Gunman, Athlete, Tinkerer, Enforcer, Loremaster 
 
 ## [Next Life Path Stage: Early Career](</LifePath/EarlyCareer/Early Career.md>)
 

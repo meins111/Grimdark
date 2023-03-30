@@ -9,6 +9,7 @@ You were born into a noble family. Etiquette, controlled demeanor and careful sc
 - Profession: _(choose one, gain 2 Ranks)_
 	- Spokesman
 	- Betrayer
+	- Loremaster 
 
 ## [Next Life Path Stage: Education](</LifePath/Education/Education.md>)
 
