@@ -12,3 +12,17 @@ Every character in Grimdark is defined by a numeric value for each of the follow
 * [Instincts](/CoreSystem/Attributes/Instincts.md)
 * [Cunning](/CoreSystem/Attributes/Cunning.md)
 * [Will](/CoreSystem/Attributes/Will.md)
+
+## Interpreting your Scores
+Here is a quick and rough estimate or ranking for getting a grasp on the attribute scores, beside the general: 'the higher the better'.
+
+|Score |Interpretation | Example |
+|----|-----------|----------|
+| <20 |Nevermind |Orkboy Precision |
+| 20's |Meh |Dockworker Cunning |
+| 30's |Decent |Joe Average Toughness |
+| 40's |Good |Commissar Will |
+| 50's |Impressive |Inquisitor Instincts |
+| 60's |Transhuman |Ogryn Brutality |
+| 70's |Superhuman |Eldar Spees |
+

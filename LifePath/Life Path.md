@@ -10,15 +10,19 @@ Each step of the way will have various options to choose from, but each of those
 The following general considerations apply:
 1. If you intent to play using the [Generalist Playstyle](</SkillSystem/Generalist Playstyle.md>) and you get a [Specialty](/SkillSystem/Specialty.md), simply put a dot next to the associated Profession.
 2. If you gain the same [Specialty](/SkillSystem/Specialty.md) from subsequent stages, you simply increase its [Specialty Rank](</SkillSystem/Specialty Rank.md>) by one.
-3. Within one Stage, you may not select the same Specialty or Profession more than once.
-4. Make sure to note down the options you took for each stage. These are your [Origin Traits](</Traits/Origin Trait.md>), which can be invoked during play to gain modifiers.
+3. Unless otherwise noted by the GM, you may not gain an Specialty at Rank 4 or 5 during character creation.
+4. Within one Stage, you may not select the same Specialty or Profession more than once.
+5. Make sure to note down the options you took for each stage. These are your [Origin Traits](</Traits/Origin Trait.md>), which can be invoked during play to gain modifiers.
 
 ## Cooperative Character Creation
 Depending on the setting your GM has in mind, he may limit some of the available choices in any of the life path steps. If his story is about the rise and fall of an Underhive gang, a righteous enforcer of the Arbitrators simply doesn't fit in easily.
 Additionally, you may want to cooperate with your fellow players during Character creation, building some ties into each other's backstory. Maybe you are all from the same [Homeworld](</LifePath/Homeworld/Homeworld.md>), or have gone through basic PDF training together ([Combat Training](</LifePath/CombatTraining/Combat Training.md>))? Maybe one is a long lost [Childhood](</LifePath/Childhood/Childhood.md>) friend or you were former rivals for the same position during your [Early Career](</LifePath/EarlyCareer/Early Career.md>)?
 
 
-## Stages
+
+## The Life-Path Stages
+The following Stages are the standard for a newly created, imperial character for Grimdark. Depending on the scenario your GM has prepared, he may add, replace or remove some of the stages. More Stages generally result in more experienced characters while less stages produce characters with lower overall competence (e.g. kids or teenagers).
 ![](</LifePath/Path Stages.md>)
 
-![Life Path Events](</LifePath/Life Path Events.md>)
+## Finishing Touches
+![](</LifePath/Finishing Touches.md>)

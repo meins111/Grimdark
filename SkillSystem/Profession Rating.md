@@ -10,6 +10,16 @@ Measurement of the Generalist ability of a character within a given [Profession]
 ## When to Use
 > See [Profession Rating](</SkillSystem/Profession%20Check.md#When to use a Profession Check?>)
 
+## How to Interpret it
+As a rough guidance, the following table provides a quick overview of how to interpret your Profession Rating:
+
+|Rating |Description |Example |
+|---|------------|------|
+| 3 |Basic |Nurse, Freshman, Militia |
+| 6 |Common |Intern, journeyman, Trooper |
+| 12 |Expert |Doctor, Artisan, Veteran Guardsman |
+| 15 |Master |Chirurgeon, Master, Stromtrooper |
+
 ## How to raise it
 That is the neat part: you don't! It is raised by one automatically whenever you gain a rank in any associated Specialty and **unlocked as soon as you have three or more ranks**.
 
