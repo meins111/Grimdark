@@ -1,6 +1,6 @@
 #CoreSystem 
-* **Fail**: Both rolls failed. The action fails and there is a [Complication](/SkillSystem/Complications)
-* **Partial Success**: one roll failed the other succeeded. The action succeeded but there is a [Complication](/SkillSystem/Complications)
+* **Fail**: Both rolls failed. The action fails and there is a [Major Complication](/CoreSystem/Complications.md)
+* **Partial Success**: one roll failed the other succeeded. The action succeeded but there is a [Minor Complication](/CoreSystem/Complications.md)
 * **Full Success**: both rolls succeeded. The action is a complete success.
 
 Additional Fate Results:

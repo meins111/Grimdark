@@ -13,7 +13,9 @@ While the multitude of environments inhabited by men in the grim-dark future has
 
 ![](</LifePath/Birthright/Human%20Limits.md>)
 
-## Other Options
-![](</LifePath/Birthright/List of Birthrights.md>)
+## Navigation
 
-## [Next Life Path Stage: Homeworld](</LifePath/Homeworld/Homeworld.md>)
+|<-- Prev | [Main Page](/LifePath/Life%20Path.md) | Next --> |
+|---|---|---|
+|  | [Birthright](/LifePath/Birthright/Birthright.md) | [Homeworld](/LifePath/Homeworld/Homeworld.md)
+![Other Options](</LifePath/Birthright/List of Birthrights.md>)

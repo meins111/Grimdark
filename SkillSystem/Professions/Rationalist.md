@@ -21,11 +21,14 @@ Clear thought, reasoning capabilities and a highly capable mind are the trademar
 - Researcher
 - Bureaucrats
 - Archeologist 
+- Master of Ordnance/ Artillery Commander
 
 ## Example Use Cases
 - Resits illogical influence ([Rationality](/SkillSystem/Specialties/Rationality.md))
-- Calculate firing solutions for indirect fire weapons like artillery or attacks over extreme distances or conditions including those common to void warfare [Calculus](/SkillSystem/Specialties/Calculus.md)
-- Perform advanced mathematical and logical analysis of a problem as well as study motion or emotional patterns to predict future actions of an individual or group ([Analyze](/SkillSystem/Specialties/Analyze.md))
+- Calculate firing solutions for indirect fire weapons like artillery or attacks over extreme distances or conditions including those common to void warfare ([Calculus](/SkillSystem/Specialties/Calculus.md))
+- Work out complex mathematical calculations or statistical queries ([Calculus](/SkillSystem/Specialties/Calculus.md))
+- Perform advanced logical analysis and deductions of a problem or mystery to gain insights or clues from tiny pieces of evidence ([Analyze](/SkillSystem/Specialties/Analyze.md))
+- Study motion or emotional patterns to predict future actions of an individual or group ([Analyze](/SkillSystem/Specialties/Analyze.md))
 - Perform cryptographic operations to decrypt or encrypt data to protect from unwanted access to gain access to protected data ([Ciphers](/SkillSystem/Specialties/Ciphers.md))
 - Pick up a new language or dialect from available sample data ([Linguistics](/SkillSystem/Specialties/Linguistics.md))
 

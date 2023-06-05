@@ -2,7 +2,7 @@
 ## Overview
 Grimdark uses a single, combined value to indicate the sum of physical injury, exhaustion, illnesses as well as mental or psychological trauma, strain or pressure. 
 
-Stress accumulates until a character's [Resilience](/Combat/Resilience.md) is overflowing, which then resets, increase his [Stress Level](/Combat/Stress%20Level.md) and suffering a [Snap!](/Combat/Snap.md) - a negative condition chosen by the latest source of Stress.
+Stress accumulates until a character's [Resilience](/Combat/Resilience.md) is overflowing, which then resets, increase his [Stress Level](/Combat/Stress%20Level.md) and make him suffer a [Snap!](/Combat/Snap.md) - a negative condition chosen by the latest source of Stress.
 
 
 ## Sources of Stress

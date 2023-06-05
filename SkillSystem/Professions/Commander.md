@@ -18,6 +18,7 @@ Leading others into (and hopefully back out of) danger is a hard yet utterly nec
 ## Archetypes 
 - Sergeant
 - Officers
+- Inquisitors
 - Space Marines
 - Soldiers
 
